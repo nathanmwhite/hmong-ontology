@@ -108,6 +108,9 @@
 		<superordinate>body</superordinate>
 	</category>
 	<category>
+		<term>paired_body_part</term>
+		<superordinate>body</superordinate>
+	<category>
 		<term>substance</term>
 	</category>
 	<category>
@@ -1566,6 +1569,35 @@
 			<meaning>custom</meaning>
 			<meaning>tradition</meaning>
 			<category>cognition</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>tes</form>
+		<sense>
+			<meaning>hand</meaning>
+			<category>paired_body_part</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>qhov_tsos</form>
+		<sense>
+			<meaning>armpit</meaning>
+			<category>body</category>
+			<note>not conceptually paired</note>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>caj_npab</form>
+		<sense>
+			<meaning>upper_arm</meaning>
+			<category>paired_body_part</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>zais</form>
+		<sense>
+			<meaning>bladder</meaning>
+			<category>three_dimensional_body_part</category>
 		</sense>
 	</lemma>
 </word_set>
