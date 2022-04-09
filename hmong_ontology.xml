@@ -139,6 +139,12 @@
 <status_set>
 	<status>foreign_word</status>
 </status_set>
+<source_set>
+	<source>Loloish</source>
+	<source>Chinese</source>
+	<source>Lao</source>
+	<source>English</source>
+</source_set>
 <word_set>
 	<lemma>
 		<form>neej</form>
@@ -157,6 +163,7 @@
 	<lemma>
 		<form>policy</form>
 		<status>foreign_word</status>
+		<source>English</source>
 		<sense>
 			<meaning>policy</meaning>
 			<category>communication</category>
@@ -165,6 +172,7 @@
 	<lemma>
 		<form>cwj_pwm</form>
 		<variant>cuj_pwm</variant>
+		<source>Chinese</source>
 		<sense>
 			<meaning>behavior</meaning>
 			<category>act</category>
@@ -224,6 +232,7 @@
 	<lemma>
 		<form>email</form>
 		<status>foreign_word</status>
+		<source>English</source>
 		<sense>
 			<meaning>email</meaning>
 			<category>communication</category>
@@ -243,6 +252,7 @@
 	<lemma>
 		<form>system</form>
 		<status>foreign_word</status>
+		<source>English</source>
 		<sense>
 			<meaning>system</meaning>
 			<category>cognition</category>
@@ -250,6 +260,7 @@
 	</lemma>
 	<lemma>
 		<form>xeeb_ceem</form>
+		<source>Chinese</source>
 		<sense>
 			<meaning>characteristic</meaning>
 			<category>cognition</category>
@@ -257,6 +268,7 @@
 	</lemma>
 	<lemma>
 		<form>xwm_txheej</form>
+		<source>Chinese</source>
 		<sense>
 			<meaning>accident</meaning>
 			<category>event</category>
@@ -304,6 +316,7 @@
 	</lemma>
 	<lemma>
 		<form>Vaj_Tswv</form>
+		<source>Chinese</source>
 		<sense>
 			<meaning>God</meaning>
 			<category>person</category>
@@ -458,6 +471,7 @@
 	</lemma>
 	<lemma>
 		<form>tshis</form>
+		<source>Loloish</source>
 		<sense>
 			<meaning>goat</meaning>
 			<category>animal</category>
@@ -497,6 +511,7 @@
 	</lemma>
 	<lemma>
 		<form>xib_fwb</form>
+		<source>Chinese</source>
 		<sense>
 			<meaning>teacher</meaning>
 			<meaning>pastor</meaning>
@@ -506,6 +521,7 @@
 	<lemma>
 		<form>doctor</form>
 		<status>foreign_word</status>
+		<source>English</source>
 		<sense>
 			<meaning>doctor</meaning>
 			<category>social_role</category>
@@ -515,6 +531,7 @@
 		<form>nai</form>
 		<variant>nais</variant>
 		<status>foreign_word</status>
+		<source>Lao</source>
 		<sense>
 			<meaning>boss</meaning>
 			<meaning>manager</meaning>
@@ -523,6 +540,7 @@
 	</lemma>
 	<lemma>
 		<form>tswv</form>
+		<source>Chinese</source>
 		<sense>
 			<meaning>master</meaning>
 			<meaning>lord</meaning>
@@ -552,6 +570,7 @@
 	</lemma>
 	<lemma>
 		<form>huab_tais</form>
+		<source>Chinese</source>
 		<sense>
 			<meaning>emperor</meaning>
 			<category>social_role</category>
@@ -560,6 +579,7 @@
 	<lemma>
 		<form>director</form>
 		<status>foreign_word</status>
+		<source>English</source>
 		<sense>
 			<meaning>director</meaning>
 			<category>social_role</category>
@@ -568,6 +588,7 @@
 	<lemma>
 		<form>judge</form>
 		<status>foreign_word</status>
+		<source>English</source>
 		<sense>
 			<meaning>judge</meaning>
 			<category>social_role</category>
@@ -583,6 +604,7 @@
 	<lemma>
 		<form>kas_moos</form>
 		<status>foreign_word</status>
+		<source>Lao</source>
 		<sense>
 			<meaning>politician</meaning>
 			<category>social_role</category>
@@ -598,6 +620,7 @@
 	<lemma>
 		<form>leader</form>
 		<status>foreign_word</status>
+		<source>English</source>
 		<sense>
 			<meaning>leader</meaning>
 			<category>social_role</category>
@@ -606,6 +629,7 @@
 	<lemma>
 		<form>president</form>
 		<status>foreign_word</status>
+		<source>English</source>
 		<sense>
 			<meaning>president</meaning>
 			<category>social_role</category>
@@ -621,6 +645,7 @@
 	<lemma>
 		<form>member</form>
 		<status>foreign_word</status>
+		<source>English</source>
 		<sense>
 			<meaning>member</meaning>
 			<category>social_role</category>
@@ -636,6 +661,7 @@
 	<lemma>
 		<form>thab_ham</form>
 		<status>foreign_word</status>
+		<source>Lao</source>
 		<sense>
 			<meaning>soldier</meaning>
 			<category>social_role</category>
@@ -643,6 +669,7 @@
 	</lemma>
 	<lemma>
 		<form>phooj_ywg</form>
+		<source>Chinese</source>
 		<sense>
 			<meaning>friend</meaning>
 			<category>social_role</category>
@@ -658,6 +685,7 @@
 	<lemma>
 		<form>caub_nab_thib</form>
 		<status>foreign_word</status>
+		<source>Lao</source>
 		<sense>
 			<meaning>Communist_official</meaning>
 			<category>social_role</category>
@@ -722,6 +750,7 @@
 	<lemma>
 		<form>uncle</form>
 		<status>foreign word</status>
+		<source>English</source>
 		<sense>
 			<meaning>uncle</meaning>
 			<category>family_relation</category>
@@ -779,6 +808,7 @@
 	</lemma>
 	<lemma>
 		<form>xeeb_ntxwv</form>
+		<source>Chinese</source>
 		<sense>
 			<meaning>grandchild</meaning>
 			<category>consanguineal_relation</category>
@@ -805,6 +835,7 @@
 	</lemma>
 	<lemma>
 		<form>cim</form>
+		<source>Chinese</source>
 		<sense>
 			<meaning>symbol</meaning>
 			<category>symbol</category>
@@ -824,6 +855,7 @@
 	<lemma>
 		<form>phone</form>
 		<status>foreign_word</status>
+		<source>English</source>
 		<sense>
 			<meaning>telephone</meaning>
 			<category>three_dimensional_object</category>
@@ -835,6 +867,7 @@
 	</lemma>
 	<lemma>
 		<form>choj</form>
+		<source>Chinese</source>
 		<sense>
 			<meaning>bridge</meaning>
 			<category>one_dimensional_object</category>
@@ -974,6 +1007,7 @@
 	</lemma>
 	<lemma>
 		<form>tooj</form>
+		<source>Chinese</source>
 		<sense>
 			<meaning>copper</meaning>
 			<category>substance</category>
@@ -1071,6 +1105,7 @@
 	</lemma>
 	<lemma>
 		<form>tsheb</form>
+		<source>Chinese</source>
 		<sense>
 			<meaning>car</meaning>
 			<meaning>vehicle</meaning>
@@ -1095,6 +1130,7 @@
 		<form>tshawj</form>
 		<variant>church</variant>
 		<status>foreign_word</status>
+		<source>English</source>
 		<sense>
 			<meaning>church</meaning>
 			<category>three_dimensional_object</category>
@@ -1117,6 +1153,7 @@
 	<lemma>
 		<form>computer</form>
 		<status>foreign_word</status>
+		<source>English</source>
 		<sense>
 			<meaning>computer</meaning>
 			<category>three_dimensional_object</category>
@@ -1287,6 +1324,7 @@
 	</lemma>
 		<lemma>
 		<form>xeeb_ceem</form>
+		<source>Chinese</source>
 		<sense>
 			<meaning>feeling</meaning>
 			<meaning>emotion</meaning>
@@ -1303,6 +1341,7 @@
 	</lemma>
 		<lemma>
 		<form>txheej_txheem</form>
+			<source>Chinese</source>
 		<sense>
 			<meaning>step</meaning>
 			<meaning>process</meaning>
@@ -1319,6 +1358,7 @@
 		<lemma>
 		<form>boss</form>
 		<status>foreign_word</status>
+		<source>English</source>
 		<sense>
 			<meaning>boss</meaning>
 			<category>social_role</category>
@@ -1335,6 +1375,7 @@
 	<lemma>
 		<form>professor</form>
 		<status>foreign_word</status>
+		<source>English</source>
 		<sense>
 			<meaning>professor</meaning>
 			<category>person</category>
@@ -1366,6 +1407,7 @@
 	<lemma>
 		<form>chairman</form>
 		<status>foreign_word</status>
+		<source>English</source>
 		<sense>
 			<meaning>chairman</meaning>
 			<category>social_role</category>
@@ -1381,6 +1423,7 @@
 	<lemma>
 		<form>nephew</form>
 		<status>foreign_word</status>
+		<source>English</source>
 		<sense>
 			<meaning>nephew</meaning>
 			<category>family_relation</category>
@@ -1396,6 +1439,7 @@
 	<lemma>
 		<form>spouse</form>
 		<status>foreign_word</status>
+		<source>English</source>
 		<sense>
 			<meaning>spouse</meaning>
 			<category>affinal_relation</category>
@@ -1404,6 +1448,7 @@
 	<lemma>
 		<form>number</form>
 		<status>foreign_word</status>
+		<source>English</source>
 		<sense>
 			<meaning>number</meaning>
 			<category>symbol</category>
@@ -1412,6 +1457,7 @@
 	<lemma>
 		<form>reporter</form>
 		<status>foreign_word</status>
+		<source>English</source>
 		<sense>
 			<meaning>reporter</meaning>
 			<category>social_role</category>
@@ -1420,6 +1466,7 @@
 	<lemma>
 		<form>niece</form>
 		<status>foreign_word</status>
+		<source>English</source>
 		<sense>
 			<meaning>niece</meaning>
 			<category>family_relation</category>
@@ -1428,6 +1475,7 @@
 	<lemma>
 		<form>expert</form>
 		<status>foreign_word</status>
+		<source>English</source>
 		<sense>
 			<meaning>expert</meaning>
 			<category>social_role</category>
@@ -1436,6 +1484,7 @@
 	<lemma>
 		<form>hero</form>
 		<status>foreign_word</status>
+		<source>English</source>
 		<sense>
 			<meaning>hero</meaning>
 			<category>social_role</category>
@@ -1444,6 +1493,7 @@
 	<lemma>
 		<form>founder</form>
 		<status>foreign_word</status>
+		<source>English</source>
 		<sense>
 			<meaning>founder</meaning>
 			<category>social_role</category>
@@ -1452,6 +1502,7 @@
 	<lemma>
 		<form>code</form>
 		<status>foreign_word</status>
+		<source>English</source>
 		<sense>
 			<meaning>code</meaning>
 			<category>communication</category>
@@ -1460,6 +1511,7 @@
 	<lemma>
 		<form>spokesperson</form>
 		<status>foreign_word</status>
+		<source>English</source>
 		<sense>
 			<meaning>spokesperson</meaning>
 			<category>social_role</category>
@@ -1467,6 +1519,7 @@
 	</lemma>
 	<lemma>
 		<form>tswv_cuab</form>
+		<source>Chinese</source>
 		<sense>
 			<meaning>host</meaning>
 			<meaning>landowner</meaning>
@@ -1476,6 +1529,7 @@
 		<lemma>
 		<form>partner</form>
 		<status>foreign_word</status>
+		<source>English</source>
 		<sense>
 			<meaning>partner</meaning>
 			<category>social_role</category>
@@ -1492,6 +1546,7 @@
 		<lemma>
 		<form>cousin</form>
 		<status>foreign_word</status>
+		<source>English</source>
 		<sense>
 			<meaning>cousin</meaning>
 			<category>family_relation</category>
@@ -1509,6 +1564,7 @@
 	<lemma>
 		<form>colonel</form>
 		<status>foreign_word</status>
+		<source>English</source>
 		<sense>
 			<meaning>colonel</meaning>
 			<category>social_role</category>
@@ -1525,6 +1581,7 @@
 	<lemma>
 		<form>flag</form>
 		<status>foreign_word</status>
+		<source>English</source>
 		<sense>
 			<meaning>flag</meaning>
 			<category>object</category>
@@ -1647,6 +1704,7 @@
 	</lemma>
 	<lemma>
 		<form>tswv_yim</form>
+		<source>Chinese</source>
 		<sense>
 			<meaning>plan</meaning>
 			<category>cognition</category>
@@ -1664,6 +1722,7 @@
 	<lemma>
 		<form>weekend</form>
 		<status>foreign_word</status>
+		<source>English</source>
 		<sense>
 			<meaning>weekend</meaning>
 			<category>time</category>
@@ -1671,6 +1730,7 @@
 	</lemma>
 	<lemma>
 		<form>txim</form>
+		<source>Chinese</source>
 		<sense>
 			<meaning>offense</meaning>
 			<category>act</category>
@@ -1682,6 +1742,7 @@
 	</lemma>
 	<lemma>
 		<form>meej_mom</form>
+		<source>Chinese</source>
 		<sense>
 			<meaning>fame</meaning>
 			<meaning>reputation</meaning>
@@ -1709,6 +1770,7 @@
 	<lemma>
 		<form>website</form>
 		<status>foreign_word</status>
+		<source>English</source>
 		<sense>
 			<meaning>website</meaning>
 			<category>communication</category>
@@ -1716,6 +1778,7 @@
 	</lemma>
 	<lemma>
 		<form>xeev</form>
+		<source>Chinese</source>
 		<sense>
 			<meaning>state</meaning>
 			<category>location</category>
@@ -1723,6 +1786,7 @@
 	</lemma>
 	<lemma>
 		<form>xeem</form>
+		<source>Chinese</source>
 		<sense>
 			<meaning>surname</meaning>
 			<category>communication</category>
@@ -1734,6 +1798,7 @@
 	</lemma>
 	<lemma>
 		<form>pim</form>
+		<variant>paum</variant>
 		<sense>
 			<meaning>vulva</meaning>
 			<category>three_dimensional_body_part</category>
@@ -1742,6 +1807,7 @@
 	<lemma>
 		<form>topic</form>
 		<status>foreign_word</status>
+		<source>English</source>
 		<sense>
 			<meaning>topic</meaning>
 			<category>communication</category>
@@ -1758,6 +1824,7 @@
 	<lemma>
 		<form>forum</form>
 		<status>foreign_word</status>
+		<source>English</source>
 		<sense>
 			<meaning>forum</meaning>
 			<category>group</category>
@@ -1765,6 +1832,7 @@
 	</lemma>
 	<lemma>
 		<form>laj_lim</form>
+		<source>Chinese</source>
 		<sense>
 			<meaning>strength</meaning>
 			<category>attribute</category>
@@ -1837,6 +1905,7 @@
 	<lemma>
 		<form>title</form>
 		<status>foreign_word</status>
+		<source>English</source>
 		<sense>
 			<meaning>title</meaning>
 			<category>communication</category>
@@ -1875,6 +1944,7 @@
 	<lemma>
 		<form>company</form>
 		<status>foreign_word</status>
+		<source>English</source>
 		<sense>
 			<meaning>company</meaning>
 			<category>group</category>
@@ -1883,6 +1953,7 @@
 	<lemma>
 		<form>week</form>
 		<status>foreign_word</status>
+		<source>English</source>
 		<sense>
 			<meaning>week</meaning>
 			<category>time</category>
@@ -1899,6 +1970,7 @@
 	<lemma>
 		<form>vision</form>
 		<status>foreign_word</status>
+		<source>English</source>
 		<sense>
 			<meaning>vision</meaning>
 			<category>cognition</category>
@@ -1907,6 +1979,7 @@
 	<lemma>
 		<form>party</form>
 		<status>foreign_word</status>
+		<source>English</source>
 		<sense>
 			<meaning>party</meaning>
 			<category>group</category>
@@ -1981,6 +2054,7 @@
 	<lemma>
 		<form>office</form>
 		<status>foreign_word</status>
+		<source>English</source>
 		<sense>
 			<meaning>office</meaning>
 			<category>three_dimensional_object</category>
@@ -1988,6 +2062,7 @@
 	</lemma>
 	<lemma>
 		<form>tsho</form>
+		<source>Loloish</source>
 		<sense>
 			<meaning>shirt</meaning>
 			<category>three_dimensional_object</category>
@@ -1996,8 +2071,466 @@
 	<lemma>
 		<form>apartment</form>
 		<status>foreign_word</status>
+		<source>English</source>
 		<sense>
 			<meaning>apartment</meaning>
+			<category>three_dimensional_object</category>
+		</sense>
+	</lemma>
+		<lemma>
+		<form>hwj</form>
+		<variant>fwj</variant>
+		<source>Chinese</source>
+		<sense>
+			<meaning>bottle</meaning>
+			<category>three_dimensional_object</category>
+		</sense>
+	</lemma>
+		<lemma>
+		<form>cuab_yig</form>
+		<source>Chinese</source>
+		<sense>
+			<meaning>family</meaning>
+			<category>group</category>
+		</sense>
+	</lemma>
+		<lemma>
+		<form>state</form>
+		<status>foreign_word</status>
+		<source>English</source>
+		<sense>
+			<meaning>state</meaning>
+			<category>location</category>
+			<note>may represent another shade of meaning</note>
+		</sense>
+	</lemma>
+		<lemma>
+		<form>meeting</form>
+		<status>foreign_word</status>
+		<source>English</source>
+		<sense>
+			<meaning>meeting</meaning>
+			<category>group</category>
+		</sense>
+	</lemma>
+		<lemma>
+		<form>society</form>
+		<status>foreign_word</status>
+		<source>English</source>
+		<sense>
+			<meaning>society</meaning>
+			<category>group</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>tswb</form>
+		<source>Chinese</source>
+		<sense>
+			<meaning>bell</meaning>
+			<category>three_dimensional_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>truck</form>
+		<status>foreign_word</status>
+		<source>English</source>
+		<sense>
+			<meaning>truck</meaning>
+			<category>three_dimensional_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>peev</form>
+		<source>Chinese</source>
+		<sense>
+			<meaning>capital</meaning>
+			<meaning>principal</meaning>
+			<category>possession</category>
+		</sense>
+		<sense>
+			<meaning>skill</meaning>
+			<meaning>ability</meaning>
+			<category>cognition</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>yim_txwv</form>
+		<source>Chinese</source>
+		<sense>
+			<meaning>chair</meaning>
+			<category>three_dimensional_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>qhov_ncauj</form>
+		<sense>
+			<meaning>mouth</meaning>
+			<category>three_dimensional_space</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>koob_meej</form>
+		<source>Chinese</source>
+		<sense>
+			<meaning>good_reputation</meaning>
+			<category>cognition</category>
+			<note>may also be state</note>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>conference</form>
+		<status>foreign_word</status>
+		<source>English</source>
+		<sense>
+			<meaning>conference</meaning>
+			<category>group</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>cib_fim</form>
+		<source>Chinese</source>
+		<sense>
+			<meaning>opportunity</meaning>
+			<meaning>chance</meaning>
+			<category>state</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>booth</form>
+		<status>foreign_word</status>
+		<source>English</source>
+		<sense>
+			<meaning>booth</meaning>
+			<category>three_dimensional_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>hwj_chim</form>
+		<variant>fwj_chim</variant>
+		<source>Chinese</source>
+		<sense>
+			<meaning>power</meaning>
+			<meaning>prestige</meaning>
+			<category>state</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>plab</form>
+		<sense>
+			<meaning>stomach</meaning>
+			<meaning>abdomen</meaning>
+			<category>three_dimensional_body_part</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>birthday</form>
+		<status>foreign_word</status>
+		<source>English</source>
+		<sense>
+			<meaning>birthday</meaning>
+			<category>time</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>nplos</form>
+		<sense>
+			<meaning>socket</meaning>
+			<category>three_dimensional_space</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>bomb</form>
+		<status>foreign_word</status>
+		<source>English</source>
+		<sense>
+			<meaning>bomb</meaning>
+			<category>three_dimensional_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>rwj</form>
+		<sense>
+			<meaning>boil</meaning>
+			<meaning>abscess</meaning>
+			<category>three_dimensional_object</category>
+			<note>technically a state, but conceptualized as a 3D object</note>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>pob_tawb</form>
+		<sense>
+			<meaning>basket</meaning>
+			<category>three_dimensional_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>caij_nyoog</form>
+		<sense>
+			<meaning>time</meaning>
+			<meaning>occasion</meaning>
+			<category>event</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>nkaub</form>
+		<sense>
+			<meaning>yolk</meaning>
+			<category>three_dimensional_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>mis</form>
+		<sense>
+			<meaning>breast</meaning>
+			<category>three_dimensional_body_part</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>zim_txwv</form>
+		<sense>
+			<meaning>time</meaning>
+			<category>time</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>funeral</form>
+		<status>foreign_word</status>
+		<source>English</source>
+		<sense>
+			<meaning>funeral</meaning>
+			<category>event</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>goal</form>
+		<status>foreign_word</status>
+		<source>English</source>
+		<sense>
+			<meaning>goal</meaning>
+			<category>cognition</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>clinic</form>
+		<status>foreign_word</status>
+		<source>English</source>
+		<sense>
+			<meaning>clinic</meaning>
+			<category>three_dimensional_object</category>
+			<note>may also reference a group</note>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>kua_muag</form>
+		<sense>
+			<meaning>tear</meaning>
+			<category>body</category>
+			<note>may be a compositional sequence</note>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>organization</form>
+		<status>foreign_word</status>
+		<source>English</source>
+		<sense>
+			<meaning>organization</meaning>
+			<category>group</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>ntsws</form>
+		<sense>
+			<meaning>nose</meaning>
+			<category>three_dimensional_body_part</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>screen</form>
+		<status>foreign_word</status>
+		<source>English</source>
+		<sense>
+			<meaning>screen</meaning>
+			<category>object</category>
+			<note>not clear if conceptualized as 2D or 3D</note>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>koom_txoos</form>
+		<sense>
+			<meaning>institution</meaning>
+			<meaning>organization</meaning>
+			<category>group</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>koom_haum</form>
+		<sense>
+			<meaning>association</meaning>
+			<category>group</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>community</form>
+		<status>foreign_word</status>
+		<source>English</source>
+		<sense>
+			<meaning>community</meaning>
+			<category>group</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>radio</form>
+		<status>foreign_word</status>
+		<source>English</source>
+		<sense>
+			<meaning>radio</meaning>
+			<category>three_dimensional_object</category>
+		</sense>
+		<sense>
+			<meaning>radio</meaning>
+			<category>communication</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>kua</form>
+		<sense>
+			<meaning>fluid</meaning>
+			<meaning>liquid</meaning>
+			<category>substance</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>tshav</form>
+		<sense>
+			<meaning>field</meaning>
+			<category>three_dimensional_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>nrig</form>
+		<sense>
+			<meaning>fist</meaning>
+			<category>three_dimensional_body_part</category>
+		</sense>
+		<sense>
+			<meaning>punch</meaning>
+			<category>act</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>taub_hau</form>
+		<variant>tob_hau</variant>
+		<sense>
+			<meaning>head</meaning>
+			<category>three_dimensional_body_part</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>zwj_ceeb</form>
+		<source>Chinese</source>
+		<sense>
+			<meaning>time</meaning>
+			<meaning>era</meaning>
+			<category>time</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>moo</form>
+		<status>foreign_word</status>
+		<source>Lao</source>
+		<sense>
+			<meaning>hour</meaning>
+			<category>time</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>xuab_moos</form>
+		<status>foreign_word</status>
+		<source>Lao</source>
+		<sense>
+			<meaning>hour</meaning>
+			<category>time</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>position</form>
+		<status>foreign_word</status>
+		<source>English</source>
+		<sense>
+			<meaning>position</meaning>
+			<category>act</category>
+			<note>assuming position here refers to job or sports</note>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>restaurant</form>
+		<status>foreign_word</status>
+		<source>English</source>
+		<sense>
+			<meaning>restaurant</meaning>
+			<category>three_dimensional_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>sam_xeeb</form>
+		<source>Chinese</source>
+		<sense>
+			<meaning>kindness</meaning>
+			<category>act</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>nruas</form>
+		<sense>
+			<meaning>bell</meaning>
+			<meaning>drum</meaning>
+			<category>three_dimensional_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>vas</form>
+		<sense>
+			<meaning>net</meaning>
+			<category>three_dimensional_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>ntsis</form>
+		<sense>
+			<meaning>peak</meaning>
+			<meaning>top_part</meaning>
+			<category>three_dimensional_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>plhaub</form>
+		<sense>
+			<meaning>outer_cover</meaning>
+			<meaning>husk</meaning>
+			<meaning>shell</meaning>
+			<category>three_dimensional_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>zes</form>
+		<sense>
+			<meaning>nest</meaning>
+			<category>three_dimensional_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>koob_tsheej</form>
+		<source>Chinese</source>
+		<sense>
+			<meaning>celebration</meaning>
+			<category>act</category>
+			<note>may also be an event</note>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>kaus_mom</form>
+		<sense>
+			<meaning>conical_hat</meaning>
 			<category>three_dimensional_object</category>
 		</sense>
 	</lemma>
