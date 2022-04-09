@@ -51,6 +51,10 @@
 		<superordinate>object</superordinate>
 	</category>
 	<category>
+		<term>three_dimensional_space</term>
+		<superordinate>three_dimensional_object</superordinate>
+	</category>
+	<category>
 		<term>tool</term>
 		<superordinate>object</superordinate>
 	</category>
@@ -124,6 +128,9 @@
 	</category>
 	<category>
 		<term>act</term>
+	</category>
+	<category>
+		<term>location</term>
 	</category>
 </category_set>
 <status_set>
@@ -1598,6 +1605,222 @@
 		<sense>
 			<meaning>bladder</meaning>
 			<category>three_dimensional_body_part</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>cev</form>
+		<sense>
+			<meaning>body</meaning>
+			<category>body</category>
+			<note>conceptualized as a three_dimensional object</note>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>hlwb</form>
+		<sense>
+			<meaning>brain</meaning>
+			<category>three_dimensional_body_part</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>suab</form>
+		<sense>
+			<meaning>voice</meaning>
+			<category>communication</category>
+			<note>handled with three_dimensional classifier</note>
+		</sense>
+		<sense>
+			<meaning>sound</meaning>
+			<category>phenomenon</category>
+			<note>handled with three_dimensional classifier</note>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>hom_phiaj</form>
+		<sense>
+			<meaning>target</meaning>
+			<category>three_dimensional_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>tswv_yim</form>
+		<sense>
+			<meaning>plan</meaning>
+			<category>cognition</category>
+			<note>should revisit for additional meanings</note>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>zeem_muag</form>
+		<sense>
+			<meaning>sight</meaning>
+			<meaning>vision</meaning>
+			<category>cognition</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>weekend</form>
+		<status>foreign_word</status>
+		<sense>
+			<meaning>weekend</meaning>
+			<category>time</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>txim</form>
+		<sense>
+			<meaning>offense</meaning>
+			<category>act</category>
+		</sense>
+		<sense>
+			<meaning>guilt</meaning>
+			<category>state</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>meej_mom</form>
+		<sense>
+			<meaning>fame</meaning>
+			<meaning>reputation</meaning>
+			<category>state</category>
+		</sense>
+		<sense>
+			<meaning>appearance</meaning>
+			<category>attribute</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>ncauj</form>
+		<sense>
+			<meaning>mouth</meaning>
+			<category>three_dimensional_space</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>hnab</form>
+		<sense>
+			<meaning>bag</meaning>
+			<category>three_dimensional_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>website</form>
+		<status>foreign_word</status>
+		<sense>
+			<meaning>website</meaning>
+			<category>communication</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>xeev</form>
+		<sense>
+			<meaning>state</meaning>
+			<category>location</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>xeem</form>
+		<sense>
+			<meaning>surname</meaning>
+			<category>communication</category>
+		</sense>
+		<sense>
+			<meaning>clan</meaning>
+			<category>group</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>pim</form>
+		<sense>
+			<meaning>vulva</meaning>
+			<category>three_dimensional_body_part</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>topic</form>
+		<status>foreign_word</status>
+		<sense>
+			<meaning>topic</meaning>
+			<category>communication</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>ntiaj_teb</form>
+		<sense>
+			<meaning>earth</meaning>
+			<meaning>world</meaning>
+			<category>three_dimensional_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>forum</form>
+		<status>foreign_word</status>
+		<sense>
+			<meaning>forum</meaning>
+			<category>group</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>laj_lim</form>
+		<sense>
+			<meaning>strength</meaning>
+			<category>attribute</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>chaw</form>
+		<sense>
+			<meaning>place</meaning>
+			<category>location</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>nra</form>
+		<sense>
+			<meaning>baggage</meaning>
+			<meaning>load</meaning>
+			<category>three_dimensional_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>qhov</form>
+		<sense>
+			<meaning>hole</meaning>
+			<category>three_dimensional_space</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>qhov_rooj</form>
+		<sense>
+			<meaning>doorway</meaning>
+			<category>three_dimensional_space</category>
+		</sense>
+		<sense>
+			<meaning>door</meaning>
+			<category>two_dimensional_object</category>
+	</lemma>
+	<lemma>
+		<form>qhov_rais</form>
+		<sense>
+			<meaning>window</meaning>
+			<category>three_dimensional_space</category>
+			<note>may have two_dimensional_object sense as well</note>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>hauv_paus</form>
+		<variant>hauv_paug</variant>
+		<sense>
+			<meaning>beginning</meaning>
+			<category>time</category>
+		</sense>
+		<sense>
+			<meaning>origin</meaning>
+			<category>location</category>
+		</sense>
+		<sense>
+			<meaning>root</meaning>
+			<category>three_dimensional_object</category>
 		</sense>
 	</lemma>
 </word_set>
