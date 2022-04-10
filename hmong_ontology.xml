@@ -1686,6 +1686,10 @@
 			<meaning>brain</meaning>
 			<category>three_dimensional_body_part</category>
 		</sense>
+		<sense>
+			<meaning>marrow</meaning>
+			<category>body</category>
+			<note>more specific category may apply</note>
 	</lemma>
 	<lemma>
 		<form>suab</form>
@@ -2347,8 +2351,8 @@
 	<lemma>
 		<form>ntsws</form>
 		<sense>
-			<meaning>nose</meaning>
-			<category>three_dimensional_body_part</category>
+			<meaning>lung</meaning>
+			<category>two_dimensional_body_part</category>
 		</sense>
 	</lemma>
 	<lemma>
@@ -3568,6 +3572,150 @@
 		<sense>
 			<meaning>cucumber</meaning>
 			<category>three_dimensional_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>ntswg</form>
+		<sense>
+			<meaning>nose</meaning>
+			<category>three_dimensional_body_part</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>caj_dab</form>
+		<sense>
+			<meaning>neck</meaning>
+			<category>three_dimensional_body_part</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>caj_ntswg</form>
+		<sense>
+			<meaning>nose_bridge</meaning>
+			<category>three_dimensional_body_part</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>hlab_pas</form>
+		<sense>
+			<meaning>esophagus</meaning>
+			<meaning>trachea</meaning>
+			<meaning>windpipe</meaning>
+			<category>three_dimensional_body_part</category>
+			<note>definition may need to be revisited</note>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>xub_pwg</form>
+		<sense>
+			<meaning>shoulder</meaning>
+			<category>body</category>
+			<note>a more specific category may apply</note>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>hoob_kas</form>
+		<status>foreign_word</status>
+		<source>Lao</source>
+		<sense>
+			<meaning>office</meaning>
+			<category>three_dimensional_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>oos_kaas</form>
+		<status>foreign_word</status>
+		<source>Lao</source>
+		<note>may need to check form</note>
+		<sense>
+			<meaning>organization</meaning>
+			<category>group</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>po</form>
+		<sense>
+			<meaning>spleen</meaning>
+			<category>three_dimensional_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>txuj_ci</form>
+		<sense>
+			<meaning>method</meaning>
+			<meaning>knowledge</meaning>
+			<meaning>traditional_skill</meaning>
+			<category>cognition</category>
+			<note>may need to revisit definition and category</note>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>peev_xwm</form>
+		<source>Chinese</source>
+		<sense>
+			<meaning>ability</meaning>
+			<meaning>skill</meaning>
+			<category>cognition</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>noob_qes</form>
+		<sense>
+			<meaning>testicles</meaning>
+			<category>three_dimensional_body_part</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>caj_pas</form>
+		<sense>
+			<meaning>throat</meaning>
+			<category>three_dimensional_body_part</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>qa</form>
+		<sense>
+			<meaning>throat</meaning>
+			<category>three_dimensional_body_part</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>hniav</form>
+		<sense>
+			<meaning>tooth</meaning>
+			<category>one_dimensional_body_part</category>
+			<note>category based on syntactic-semantic behavior</note>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>hniav_puas</form>
+		<sense>
+			<meaning>molar_tooth</meaning>
+			<category>one_dimensional_body_part</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>ntaws</form>
+		<sense>
+			<meaning>navel</meaning>
+			<meaning>umbilicus</meaning>
+			<meaning>belly_button</meaning>
+			<category>three_dimensional_body_part</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>leeg</form>
+		<sense>
+			<meaning>artery</meaning>
+			<meaning>vein</meaning>
+			<category>one_dimensional_nonrigid_body_part</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>dab_teg</form>
+		<sense>
+			<meaning>wrist</meaning>
+			<category>three_dimensional_body_part</category>
 		</sense>
 	</lemma>
 </word_set>
