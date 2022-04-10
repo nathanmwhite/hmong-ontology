@@ -1144,6 +1144,9 @@
 			<meaning>ball</meaning>
 			<category>three_dimensional_object</category>
 		</sense>
+		<sense>
+			<meaning>joint</meaning>
+			<category>three_dimensional_body_part</category>
 	</lemma>
 	<lemma>
 		<form>rooj</form>
@@ -3378,6 +3381,7 @@
 		<form>puab_tsaig</form>
 		<sense>
 			<meaning>chin</meaning>
+			<meaning>jaw</meaning>
 			<category>three_dimensional_object</category>
 		</sense>
 	</lemma>
@@ -3474,6 +3478,96 @@
 		<sense>
 			<meaning>gall_bladder</meaning>
 			<category>three_dimensional_body_part</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>nru</form>
+		<sense>
+			<meaning>glottis</meaning>
+			<meaning>tonsil</meaning>
+			<category>one_dimensional_body_part</category>
+			<note>category chosen is based on semantic-syntactic interface; there may be a better gloss</note>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>plaub_hau</form>
+		<sense>
+			<meaning>hair</meaning>
+			<category>one_dimensional_body_part</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>puab_tais</form>
+		<note>composition to be determined</note>
+		<sense>
+			<meaning>groin</meaning>
+			<category>three_dimensional_body_part</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>pos_hniav</form>
+		<sense>
+			<meaning>gums</meaning>
+			<category>body</category>
+			<note>more specific semantics to be determined; may pattern like a substance</note>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>pos</form>
+		<sense>
+			<meaning>thorn</meaning>
+			<category>one_dimensional_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>hnyuv</form>
+		<sense>
+			<meaning>intestines</meaning>
+			<category>one_dimensional_nonrigid_body_part</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>raum</form>
+		<sense>
+			<meaning>kidney</meaning>
+			<category>three_dimensional_body_part</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>hauv_caug</form>
+		<sense>
+			<meaning>knee</meaning>
+			<category>three_dimensional_body_part</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>plab_hlaub</form>
+		<sense>
+			<meaning>calf</meaning>
+			<category>three_dimensional_body_part</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>ncej_puab</form>
+		<note>may be compositional noun + modifier</note>
+		<sense>
+			<meaning>thigh</meaning>
+			<category>three_dimensional_body_part</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>di_ncauj</form>
+		<sense>
+			<meaning>lip</meaning>
+			<category>object</category>
+			<note>more specific category may need to be determined</note>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>dib</form>
+		<sense>
+			<meaning>cucumber</meaning>
+			<category>three_dimensional_object</category>
 		</sense>
 	</lemma>
 </word_set>
