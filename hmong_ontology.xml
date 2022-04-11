@@ -135,6 +135,9 @@
 	<category>
 		<term>shape</term>
 	</category>
+	<category>
+		<term>process</term>
+	</category>
 </category_set>
 <status_set>
 	<status>foreign_word</status>
@@ -3992,6 +3995,101 @@
 		<sense>
 			<meaning>inheritance</meaning>
 			<category>possession</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>txaj</form>
+		<sense>
+			<meaning>bed</meaning>
+			<category>three_dimensional_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>yeeb</form>
+		<sense>
+			<meaning>opium</meaning>
+			<category>object</category>
+			<note>may need to review category</note>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>cawv</form>
+		<sense>
+			<meaning>alcoholic_drink</meaning>
+			<category>substance</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>keeb_kwm</form>
+		<sense>
+			<meaning>history</meaning>
+			<meaning>origin</meaning>
+			<category>process</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>roj</form>
+		<sense>
+			<meaning>fat</meaning>
+			<meaning>grease</meaning>
+			<meaning>oil</meaning>
+			<category>substance</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>pa</form>
+		<sense>
+			<meaning>air</meaning>
+			<category>substance</category>
+			<note>may need to revisit meaning and category</note>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>khaub_ncaws</form>
+		<sense>
+			<meaning>clothing</meaning>
+			<category>object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>plaub</form>
+		<sense>
+			<meaning>hair</meaning>
+			<meaning>feather</meaning>
+			<meaning>fur</meaning>
+			<category>body</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>tseem_fwv</form>
+		<note>may also have additional meaning of individual</note>
+		<sense>
+			<meaning>government</meaning>
+			<category>group</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>kwj</form>
+		<sense>
+			<meaning>valley</meaning>
+			<meaning>gully</meaning>
+			<category>three_dimensional_space</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>kwj_ha</form>
+		<sense>
+			<meaning>ravine</meaning>
+			<category>three_dimensional_space</category>
+			<note>may also be conceived as two_dimensional_space</note>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>kwj_deg</form>
+		<sense>
+			<meaning>gully</meaning>
+			<category>three_dimensional_space</category>
+			<note>may need to revisit category</note>
 		</sense>
 	</lemma>
 </word_set>
