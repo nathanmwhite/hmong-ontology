@@ -3906,4 +3906,92 @@
 			<category>animal</category>
 		</sense>
 	</lemma>
+	<lemma>
+		<form>kwj_tse</form>
+		<sense>
+			<meaning>drainage_ditch</meaning>
+			<category>one_dimensional_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>qab</form>
+		<sense>
+			<meaning>space_behind</meaning>
+			<category>location</category>
+			<note>may be three_dimensional_space</note>
+		</sense>
+		<sense>
+			<meaning>time_after</meaning>
+			<category>time</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>ntej</form>
+		<sense>
+			<meaning>space_before</meaning>
+			<category>location</category>
+			<note>may be three_dimensional_space</note>
+		</sense>
+		<sense>
+			<meaning>time_before</meaning>
+			<category>time</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>caij</form>
+		<sense>
+			<meaning>time</meaning>
+			<meaning>season</meaning>
+			<meaning>era</meaning>
+			<category>time</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>quav</form>
+		<sense>
+			<meaning>feces</meaning>
+			<category>three_dimensional_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>yav</form>
+		<sense>
+			<meaning>time_period</meaning>
+			<category>time</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>zaub</form>
+		<sense>
+			<meaning>vegetable</meaning>
+			<category>three_dimensional_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>num</form>
+		<sense>
+			<meaning>work</meaning>
+			<category>act</category>
+			<note>may need to check category</note>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>tshuaj</form>
+		<sense>
+			<meaning>medicine</meaning>
+			<category>object</category>
+			<note>may have more specific category</note>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>cuab_yeem</form>
+		<sense>
+			<meaning>household_equipment</meaning>
+			<category>three_dimensional_object</category>
+		</sense>
+		<sense>
+			<meaning>inheritance</meaning>
+			<category>possession</category>
+		</sense>
+	</lemma>
 </word_set>
