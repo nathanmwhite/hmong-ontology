@@ -4226,4 +4226,52 @@
 			<category>three_dimensional_object</category>
 		</sense>
 	</lemma>
+	<lemma>
+		<form>txiv_mav_poj</form>
+		<status>foreign_word</status>
+		<source>Lao</source>
+		<note>may be compositional; last two syllables are from Lao</note>
+		<sense>
+			<meaning>coconut</meaning>
+			<category>three_dimensional_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>pob_kws</form>
+		<sense>
+			<meaning>corn</meaning>
+			<category>plant</category>
+			<note>classifier is lub; may be more suited as three_dimensional_object</note>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>lws</form>
+		<sense>
+			<meaning>eggplant</meaning>
+			<category>three_dimensional_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>qej</form>
+		<variant>qij</variant>
+		<sense>
+			<meaning>garlic</meaning>
+			<category>three_dimensional_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>qhiav</form>
+		<sense>
+			<meaning>ginger</meaning>
+			<category>three_dimensional_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>dos</form>
+		<note>may also have senses for onions</note>
+		<sense>
+			<meaning>leek</meaning>
+			<category>three_dimensional_object</category>
+		</sense>
+	</lemma>
 </word_set>
