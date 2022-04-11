@@ -2861,6 +2861,14 @@
 			<meaning>fruit</meaning>
 			<category>three_dimensional_body_part</category>
 		</sense>
+		<sense>
+			<meaning>husband</meaning>
+			<category>affinal_relation</category>
+		</sense>
+		<sense>
+			<meaning>father</meaning>
+			<category>consanguineal_relation</category>
+		</sense>
 	</lemma>
 	<lemma>
 		<form>thoob</form>
@@ -3117,6 +3125,10 @@
 			<meaning>luck</meaning>
 			<category>phenomenon</category>
 			<note>syntactic evidence suggests metaphor with one_dimensional_nonrigid_object</note>
+		</sense>
+		<sense>
+			<meaning>powder</meaning>
+			<category>substance</category>
 		</sense>
 	</lemma>
 	<lemma>
@@ -4090,6 +4102,128 @@
 			<meaning>gully</meaning>
 			<category>three_dimensional_space</category>
 			<note>may need to revisit category</note>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>xyoob</form>
+		<sense>
+			<meaning>bamboo</meaning>
+			<category>plant</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>hno</form>
+		<sense>
+			<meaning>banquet</meaning>
+			<meaning>feast</meaning>
+			<category>event</category>
+			<note>may need to revisit category</note>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>hlab</form>
+		<sense>
+			<meaning>sash</meaning>
+			<meaning>cord</meaning>
+			<meaning>rope</meaning>
+			<category>one_dimensional_nonrigid_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>ntaub</form>
+		<sense>
+			<meaning>cloth</meaning>
+			<category>two_dimensional_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>paj_ntaub</form>
+		<note>classifier is daim, indicating paj_ntaub is not semantically compositional</note>
+		<sense>
+			<meaning>embroidery</meaning>
+			<category>two_dimensional_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>nrhoob</form>
+		<sense>
+			<meaning>puttees</meaning>
+			<meaning>stockings</meaning>
+			<meaning>leg wrap</meaning>
+			<category>one_dimensional_nonrigid_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>siv</form>
+		<sense>
+			<meaning>sash</meaning>
+			<meaning>belt</meaning>
+			<category>one_dimensional_nonrigid_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>thom_khwm</form>
+		<sense>
+			<meaning>socks</meaning>
+			<category>paired_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>niam_tais</form>
+		<sense>
+			<meaning>mothers_sister</meaning>
+			<meaning>maternal_grandmother</meaning>
+			<category>consanguineal_relation</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>phauj_pog</form>
+		<sense>
+			<meaning>paternal_grandfathers_sister</meaning>
+			<category>consanguineal_relation</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>yawm_dab</form>
+		<sense>
+			<meaning>wifes_brother</meaning>
+			<category>affinal_relation</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>yawm_yij</form>
+		<sense>
+			<meaning>sisters_husband</meaning>
+			<category>affinal_relation</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>yawm_txiv</form>
+		<sense>
+			<meaning>maternal_grandfather</meaning>
+			<category>consanguineal_relation</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>niam_txiv</form>
+		<note>coordinate compound</note>
+		<sense>
+			<meaning>parents</meaning>
+			<category>consanguineal_relation</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>dab_laug</form>
+		<sense>
+			<meaning>mothers_brother</meaning>
+			<category>consanguineal_relation</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>taum</form>
+		<sense>
+			<meaning>beans</meaning>
+			<category>three_dimensional_object</category>
 		</sense>
 	</lemma>
 </word_set>
