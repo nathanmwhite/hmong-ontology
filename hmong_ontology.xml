@@ -4274,4 +4274,122 @@
 			<category>three_dimensional_object</category>
 		</sense>
 	</lemma>
+	<lemma>
+		<form>nceb</form>
+		<sense>
+			<meaning>mushroom</meaning>
+			<category>three_dimensional_object</category>
+			<note>may conceptually be a plant</note>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>txiv_duaj</form>
+		<note>may be compositional noun + modifier</note>
+		<sense>
+			<meaning>peach</meaning>
+			<category>three_dimensional_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>huab_xeeb</form>
+		<variant>fuab_xeeb</variant>
+		<sense>
+			<meaning>peanut</meaning>
+			<category>three_dimensional_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>txiv_puv_luj</form>
+		<status>foreign_word</status>
+		<source>Lao</source>
+		<note>may be compositional; last two syllables are from Lao</note>
+		<sense>
+			<meaning>pineapple</meaning>
+			<category>three_dimensional_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>kua_txob</form>
+		<sense>
+			<meaning>peppers</meaning>
+			<category>three_dimensional_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>qos</form>
+		<sense>
+			<meaning>potato</meaning>
+			<category>three_dimensional_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>mov</form>
+		<sense>
+			<meaning>cooked_rice</meaning>
+			<category>object</category>
+			<note>may need to review category</note>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>ncuav</form>
+		<sense>
+			<meaning>rice_cake</meaning>
+			<category>three_dimensional_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>ntsev</form>
+		<sense>
+			<meaning>salt</meaning>
+			<category>substance</category>
+			<note>may need to review category</note>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>txuj_lom</form>
+		<sense>
+			<meaning>spice</meaning>
+			<category>object</category>
+			<note>may need to review category</note>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>piam_thaj</form>
+		<source>Chinese</source>
+		<sense>
+			<meaning>sugar</meaning>
+			<category>substance</category>
+			<note>may need to review category</note>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>qab_tsib</form>
+		<sense>
+			<meaning>sugarcane</meaning>
+			<category>plant</category>
+			<note>may need to review category</note>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>txhuv</form>
+		<sense>
+			<meaning>uncooked_rice</meaning>
+			<category>object</category>
+			<note>may need to review category</note>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>yub</form>
+		<sense>
+			<meaning>seedling</meaning>
+			<category>one_dimensional_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>nplej</form>
+		<sense>
+			<meaning>rice_plant</meaning>
+			<category>three_dimensional_object</category>
+		</sense>
+	</lemma>
 </word_set>
