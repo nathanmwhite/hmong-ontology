@@ -1009,6 +1009,10 @@
 			<meaning>iron</meaning>
 			<category>substance</category>
 		</sense>
+		<sense>
+			<meaning>hoe</meaning>
+			<category>tool</category>
+		</sense>
 	</lemma>
 	<lemma>
 		<form>tooj</form>
@@ -2854,6 +2858,10 @@
 			<meaning>spatula</meaning>
 			<category>tool</category>
 		</sense>
+		<sense>
+			<meaning>shovel</meaning>
+			<category>tool</category>
+		</sense>
 	</lemma>
 	<lemma>
 		<form>txiv</form>
@@ -4389,6 +4397,234 @@
 		<form>nplej</form>
 		<sense>
 			<meaning>rice_plant</meaning>
+			<category>three_dimensional_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>kaum_tsev</form>
+		<note>may be compositional</note>
+		<sense>
+			<meaning>corner</meaning>
+			<category>three_dimensional_space</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>ntaiv</form>
+		<sense>
+			<meaning>ladder</meaning>
+			<category>one_dimensional_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>ntos</form>
+		<sense>
+			<meaning>loom</meaning>
+			<category>three_dimensional_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>ncoo</form>
+		<sense>
+			<meaning>pillow</meaning>
+			<meaning>cushion</meaning>
+			<category>three_dimensional_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>nthab</form>
+		<sense>
+			<meaning>loft</meaning>
+			<meaning>grain_loft</meaning>
+			<meaning>attic</meaning>
+			<category>three_dimensional_space</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>txee</form>
+		<sense>
+			<meaning>shelf</meaning>
+			<meaning>cabinet</meaning>
+			<category>three_dimensional_object</category>
+			<note>may need to revisit category</note>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>nkhawb</form>
+		<sense>
+			<meaning>soot</meaning>
+			<category>substance</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>nqeeb</form>
+		<sense>
+			<meaning>thatch</meaning>
+			<meaning>cogongrass</meaning>
+			<category>object</category>
+			<note>may need to revisit category</note>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>vab</form>
+		<sense>
+			<meaning>winnowing_tray</meaning>
+			<category>three_dimensional_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>raj</form>
+		<sense>
+			<meaning>bamboo_tube</meaning>
+			<category>one_dimensional_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>phab_ntsa</form>
+		<sense>
+			<meaning>wall</meaning>
+			<category>two_dimensional_object</category>
+			<note>may also be three_dimensional_object</note>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>num</form>
+		<sense>
+			<meaning>work</meaning>
+			<meaning>duty</meaning>
+			<category>act</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>paug</form>
+		<sense>
+			<meaning>pus</meaning>
+			<category>substance</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>zis</form>
+		<sense>
+			<meaning>urine</meaning>
+			<category>substance</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>hwj_chim</form>
+		<variant>fwj_chim</variant>
+		<source>Chinese</source>
+		<sense>
+			<meaning>authority</meaning>
+			<category>attribute</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>thwj_tim</form>
+		<source>Chinese</source>
+		<sense>
+			<meaning>disciple</meaning>
+			<category>person</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>hauj_sam</form>
+		<source>Chinese</source>
+		<sense>
+			<meaning>Buddhist_priest</meaning>
+			<category>person</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>tais</form>
+		<sense>
+			<meaning>basin</meaning>
+			<category>three_dimensional_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>rawg</form>
+		<sense>
+			<meaning>chopsticks</meaning>
+			<category>one_dimensional_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>rauj</form>
+		<sense>
+			<meaning>hammer</meaning>
+			<category>tool</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>txuas</form>
+		<sense>
+			<meaning>corn_knife</meaning>
+			<category>tool</category>
+			<note>may need to revisit meaning</note>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>teeb</form>
+		<source>Chinese</source>
+		<sense>
+			<meaning>lamp</meaning>
+			<category>three_dimensional_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>khais</form>
+		<sense>
+			<meaning>plow</meaning>
+			<category>tool</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>hub</form>
+		<sense>
+			<meaning>clay_pot</meaning>
+			<category>three_dimensional_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>liag</form>
+		<sense>
+			<meaning>rice_sickle</meaning>
+			<category>tool</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>hmuv</form>
+		<sense>
+			<meaning>spear</meaning>
+			<category>one_dimensional_object</category>
+			<note>also conceptualized as tool</note>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>tsu</form>
+		<sense>
+			<meaning>rice_steamer</meaning>
+			<category>three_dimensional_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>tog</form>
+		<sense>
+			<meaning>chair</meaning>
+			<meaning>low_stool</meaning>
+			<category>three_dimensional_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>cos</form>
+		<sense>
+			<meaning>treadmill</meaning>
+			<category>three_dimensional_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>laj_kab</form>
+		<sense>
+			<meaning>fence</meaning>
 			<category>three_dimensional_object</category>
 		</sense>
 	</lemma>
