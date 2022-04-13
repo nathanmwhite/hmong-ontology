@@ -1714,12 +1714,22 @@
 			<category>phenomenon</category>
 			<note>handled with three_dimensional classifier</note>
 		</sense>
+		<sense>
+			<meaning>recording</meaning>
+			<category>object</category>
+			<note>may need to revisit category</note>
+		</sense>
 	</lemma>
 	<lemma>
 		<form>hom_phiaj</form>
 		<sense>
 			<meaning>target</meaning>
 			<category>three_dimensional_object</category>
+		</sense>
+		<sense>
+			<meaning>goal</meaning>
+			<meaning>purpose</meaning>
+			<category>cognition</category>
 		</sense>
 	</lemma>
 	<lemma>
@@ -2715,6 +2725,11 @@
 			<meaning>silver_coin</meaning>
 			<category>three_dimensional_object</category>
 			<note>conceptualization may actually be round</note>
+		</sense>
+		<sense>
+			<meaning>hemp</meaning>
+			<category>plant</category>
+			<note>may need to revisit category</note>
 		</sense>
 	</lemma>
 	<lemma>
@@ -4361,6 +4376,7 @@
 		<form>txuj_lom</form>
 		<sense>
 			<meaning>spice</meaning>
+			<meaning>herbs</meaning>
 			<category>object</category>
 			<note>may need to review category</note>
 		</sense>
@@ -4996,6 +5012,139 @@
 			<meaning>plate</meaning>
 			<category>three_dimensional_object</category>
 			<note>semantic value may be round</note>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>se</form>
+		<source>Chinese</source>
+		<sense>
+			<meaning>tax</meaning>
+			<category>possession</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>vaj_tse</form>
+		<sense>
+			<meaning>residence</meaning>
+			<meaning>house</meaning>
+			<category>three_dimensional_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>ntseej</form>
+		<sense>
+			<meaning>chestnut</meaning>
+			<category>plant</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>txiv_txhais</form>
+		<note>may be compositional</note>
+		<sense>
+			<meaning>wild_mango</meaning>
+			<category>three_dimensional_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>qab_ntug</form>
+		<sense>
+			<meaning>horizon</meaning>
+			<category>location</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>txiv_qab_rog</form>
+		<note>may be compositional</note>
+		<sense>
+			<meaning>avocado</meaning>
+			<category>three_dimensional_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>hoob_kam</form>
+		<status>foreign_word</status>
+		<source>Lao</source>
+		<sense>
+			<meaning>office</meaning>
+			<category>three_dimensional_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>nroj</form>
+		<sense>
+			<meaning>plant</meaning>
+			<category>plant</category>
+			<note>handled as three_dimensional_object in syntactic-semantic interface</note>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>yeej</form>
+		<sense>
+			<meaning>circle</meaning>
+			<category>three_dimensional_object</category>
+			<note>semantics may actually be round</note>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>kiab_khw</form>
+		<sense>
+			<meaning>market</meaning>
+			<category>three_dimensional_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>taj_laj</form>
+		<status>foreign_word</status>
+		<source>Lao</source>
+		<sense>
+			<meaning>market</meaning>
+			<category>three_dimensional_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>qwb</form>
+		<sense>
+			<meaning>nape</meaning>
+			<category>body_part</category>
+			<note>may need to revisit form and category</note>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>txiaj_ntsim</form>
+		<sense>
+			<meaning>favor</meaning>
+			<meaning>kindness</meaning>
+			<meaning>kind_act</meaning>
+			<category>act</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>ntsia</form>
+		<sense>
+			<meaning>nail</meaning>
+			<category>one_dimensional_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>lwg</form>
+		<sense>
+			<meaning>dew</meaning>
+			<category>substance</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>te</form>
+		<sense>
+			<meaning>frost</meaning>
+			<category>substance</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>faj_suab</form>
+		<sense>
+			<meaning>haze</meaning>
+			<category>phenomenon</category>
+			<note>may need to revisit category</note>
 		</sense>
 	</lemma>
 </word_set>
