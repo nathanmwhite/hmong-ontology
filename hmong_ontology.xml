@@ -332,6 +332,10 @@
 			<meaning>demon</meaning>
 			<category>person</category>
 		</sense>
+		<sense>
+			<meaning>trough</meaning>
+			<category>three_dimensional_object</category>
+		</sense>
 	</lemma>
 	<lemma>
 		<form>neeg</form>
@@ -4625,6 +4629,192 @@
 		<form>laj_kab</form>
 		<sense>
 			<meaning>fence</meaning>
+			<category>three_dimensional_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>saw</form>
+		<sense>
+			<meaning>necklace</meaning>
+			<category>one_dimensional_nonrigid_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>phuam</form>
+		<note>may need to revisit senses given complications</note>
+		<sense>
+			<meaning>turban</meaning>
+			<category>two_dimensional_object</category>
+			<note>may also be one_dimensional_nonrigid_object</note>
+		</sense>
+		<sense>
+			<meaning>scarf</meaning>
+			<meaning>shawl</meaning>
+			<category>object</category>
+			<note>may actually be one_dimensional_nonrigid_object or two_dimensional_object for this sense</note>
+		</sense>
+		<sense>
+			<meaning>towel</meaning>
+			<category>object</category>
+			<note>may actually be one_dimensional_nonrigid_object or two_dimensional_object for this sense</note>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>moo</form>
+		<sense>
+			<meaning>news</meaning>
+			<category>communication</category>
+			<note>conceptually treated as one_dimensional_nonrigid_object through metaphor</note>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>xov_xwm</form>
+		<source>Chinese</source>
+		<sense>
+			<meaning>news</meaning>
+			<category>communication</category>
+			<note>conceptually treated as one_dimensional_nonrigid_object through metaphor</note>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>kab</form>
+		<sense>
+			<meaning>way</meaning>
+			<meaning>path</meaning>
+			<category>one_dimensional_nonrigid_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>kab_ke</form>
+		<sense>
+			<meaning>rite</meaning>
+			<meaning>ceremony</meaning>
+			<category>act</category>
+			<note>conceptually treated as one_dimensional_nonrigid_object through metaphor via kab and kev</note>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>kab</form>
+		<sense>
+			<meaning>steel</meaning>
+			<category>substance</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>dab_neeg</form>
+		<sense>
+			<meaning>story</meaning>
+			<meaning>legend</meaning>
+			<category>communication</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>kooj</form>
+		<sense>
+			<meaning>locust</meaning>
+			<category>animal</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>kuj_yem</form>
+		<sense>
+			<meaning>fan_palm</meaning>
+			<category>plant</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>nkhib</form>
+		<sense>
+			<meaning>forked_shape</meaning>
+			<category>one_dimensional_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>npau_suav</form>
+		<sense>
+			<meaning>dream</meaning>
+			<category>cognition</category>
+			<note>conceptually treated as one_dimensional_object or one_dimensional_nonrigid_object through metaphor</note>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>hlab_ntsha</form>
+		<sense>
+			<meaning>blood_vessel</meaning>
+			<meaning>vein</meaning>
+			<category>one_dimensional_nonrigid_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>ncauj_ke</form>
+		<sense>
+			<meaning>road_entrance</meaning>
+			<category>one_dimensional_nonrigid_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>xub</form>
+		<variant>xib_xub</variant>
+		<note>may need to revisit form and variant</note>
+		<sense>
+			<meaning>arrow</meaning>
+			<category>one_dimensional_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>pas</form>
+		<sense>
+			<meaning>pool</meaning>
+			<meaning>lake</meaning>
+			<category>three_dimensional_object</category>
+		</sense>
+		<sense>
+			<meaning>staff</meaning>
+			<meaning>rod</meaning>
+			<category>tool</category>
+			<note>may also be one_dimensional_object; cf. qws</note>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>xob</form>
+		<sense>
+			<meaning>mythical_creature</meaning>
+			<category>animal</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>npluag</form>
+		<sense>
+			<meaning>chaff</meaning>
+			<category>substance</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>nplhaib</form>
+		<sense>
+			<meaning>ring</meaning>
+			<category>three_dimensional_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>nqaj</form>
+		<sense>
+			<meaning>horizontal_beam</meaning>
+			<meaning>rail</meaning>
+			<category>one_dimensional_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>xua</form>
+		<sense>
+			<meaning>bran</meaning>
+			<category>substance</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>pob_caus</form>
+		<sense>
+			<meaning>knot</meaning>
 			<category>three_dimensional_object</category>
 		</sense>
 	</lemma>
