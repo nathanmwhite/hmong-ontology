@@ -1271,6 +1271,11 @@
 			<meaning>hawk</meaning>
 			<category>animal</category>
 		</sense>
+		<sense>
+			<meaning>wet_paddy</meaning>
+			<category>two_dimensional_object</category>
+			<note>evidence exists suggesting may also be three_dimensional_object conceptually</note>
+		</sense>
 	</lemma>
 	<lemma>
 		<form>kooj</form>
@@ -2784,14 +2789,6 @@
 			<meaning>field</meaning>
 			<meaning>land</meaning>
 			<category>two_dimensional_object</category>
-		</sense>
-	</lemma>
-	<lemma>
-		<form>liaj</form>
-		<sense>
-			<meaning>wet_paddy</meaning>
-			<category>two_dimensional_object</category>
-			<note>evidence exists suggesting may also be three_dimensional_object conceptually</note>
 		</sense>
 	</lemma>
 	<lemma>
