@@ -1752,6 +1752,10 @@
 			<category>object</category>
 			<note>may need to revisit category</note>
 		</sense>
+		<sense>
+			<meaning>fern</meaning>
+			<category>plant</category>
+		</sense>
 	</lemma>
 	<lemma>
 		<form>hom_phiaj</form>
@@ -6059,13 +6063,6 @@
 			<meaning>lunch</meaning>
 			<meaning>noon</meaning>
 			<category>food</category>
-		</sense>
-	</lemma>
-	<lemma>
-		<form>suab</form>
-		<sense>
-			<meaning>fern</meaning>
-			<category>plant</category>
 		</sense>
 	</lemma>
 	<lemma>
