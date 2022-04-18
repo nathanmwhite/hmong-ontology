@@ -4110,6 +4110,11 @@
 			<meaning>fur</meaning>
 			<category>body</category>
 		</sense>
+		<sense>
+			<meaning>litigation</meaning>
+			<meaning>case</meaning>
+			<category>act</category>
+		</sense>
 	</lemma>
 	<lemma>
 		<form>tseem_fwv</form>
@@ -5753,14 +5758,6 @@
 		<sense>
 			<meaning>mosquito net</meaning>
 			<category>object</category>
-		</sense>
-	</lemma>
-	<lemma>
-		<form>plaub</form>
-		<sense>
-			<meaning>litigation</meaning>
-			<meaning>case</meaning>
-			<category>act</category>
 		</sense>
 	</lemma>
 	<lemma>
