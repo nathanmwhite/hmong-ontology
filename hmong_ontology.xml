@@ -2568,6 +2568,7 @@
 		<sense>
 			<meaning>bell</meaning>
 			<meaning>drum</meaning>
+			<meaning>gong</meaning>
 			<category>three_dimensional_object</category>
 		</sense>
 	</lemma>
@@ -5657,14 +5658,6 @@
 		<sense>
 			<meaning>white pheasant</meaning>
 			<category>animal</category>
-		</sense>
-	</lemma>
-	<lemma>
-		<form>nruas</form>
-		<sense>
-			<meaning>drum</meaning>
-			<meaning>gong</meaning>
-			<category>three_dimensional_object</category>
 		</sense>
 	</lemma>
 	<lemma>
