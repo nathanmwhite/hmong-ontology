@@ -2515,11 +2515,16 @@
 	</lemma>
 	<lemma>
 		<form>moo</form>
-		<status>foreign_word</status>
-		<source>Lao</source>
 		<sense>
+			<status>foreign_word</status>
+			<source>Lao</source>
 			<meaning>hour</meaning>
 			<category>time</category>
+		</sense>
+		<sense>
+			<meaning>news</meaning>
+			<category>communication</category>
+			<note>conceptually treated as one_dimensional_nonrigid_object through metaphor</note>
 		</sense>
 	</lemma>
 	<lemma>
@@ -4688,14 +4693,6 @@
 			<meaning>towel</meaning>
 			<category>object</category>
 			<note>may actually be one_dimensional_nonrigid_object or two_dimensional_object for this sense</note>
-		</sense>
-	</lemma>
-	<lemma>
-		<form>moo</form>
-		<sense>
-			<meaning>news</meaning>
-			<category>communication</category>
-			<note>conceptually treated as one_dimensional_nonrigid_object through metaphor</note>
 		</sense>
 	</lemma>
 	<lemma>
