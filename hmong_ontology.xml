@@ -268,6 +268,12 @@
 			<meaning>characteristic</meaning>
 			<category>cognition</category>
 		</sense>
+		<sense>
+			<meaning>feeling</meaning>
+			<meaning>emotion</meaning>
+			<category>feeling</category>
+			<note>semantic value is unique top item in Wordnet hierarchy</note>
+		</sense>
 	</lemma>
 	<lemma>
 		<form>xwm_txheej</form>
@@ -1331,24 +1337,14 @@
 			<category>animal</category>
 		</sense>
 	</lemma>
-		<lemma>
+	<lemma>
 		<form>miv</form>
 		<sense>
 			<meaning>cat</meaning>
 			<category>animal</category>
 		</sense>
 	</lemma>
-		<lemma>
-		<form>xeeb_ceem</form>
-		<source>Chinese</source>
-		<sense>
-			<meaning>feeling</meaning>
-			<meaning>emotion</meaning>
-			<category>feeling</category>
-			<note>semantic value is unique top item in Wordnet hierarchy</note>
-		</sense>
-	</lemma>
-		<lemma>
+	<lemma>
 		<form>ntsuj</form>
 		<sense>
 			<meaning>soul</meaning>
@@ -1364,7 +1360,7 @@
 			<category>act</category>
 		</sense>
 	</lemma>
-		<lemma>
+	<lemma>
 		<form>cawm_seej</form>
 		<sense>
 			<meaning>hero</meaning>
