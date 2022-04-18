@@ -5235,7 +5235,7 @@
 	</lemma>
 	<lemma>
 		<form>technology</form>
-		<variant>tev naus laus yis</variant>
+		<variant>tev_naus_laus_yis</variant>
 		<status>foreign_word</status>
 		<source>English</source>
 		<sense>
@@ -6006,7 +6006,7 @@
 		</sense>
 	</lemma>
 	<lemma>
-		<form>raub ris</form>
+		<form>raub_ris</form>
 		<sense>
 			<meaning>crab</meaning>
 			<category>animal</category>
@@ -6125,7 +6125,7 @@
 		</sense>
 	</lemma>
 	<lemma>
-		<form>tuj lub</form>
+		<form>tuj_lub</form>
 		<sense>
 			<meaning>spinning top</meaning>
 			<category>three_dimensional_object</category>
@@ -6460,7 +6460,7 @@
 		</sense>
 	</lemma>
 	<lemma>
-		<form>yees tsev</form>
+		<form>yees_tsev</form>
 		<sense>
 			<meaning>main end beam of house</meaning>
 			<category>one_dimensional_object</category>
