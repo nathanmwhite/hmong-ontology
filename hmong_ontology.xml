@@ -2980,7 +2980,7 @@
 	<lemma>
 		<form>phaj</form>
 		<sense>
-			<meaning>plate</meaning>
+			<meaning>flat plate</meaning>
 			<category>three_dimensional_object</category>
 			<note>conceptualization may actually be round</note>
 		</sense>
@@ -4966,14 +4966,6 @@
 		</sense>
 	</lemma>
 	<lemma>
-		<form>phaj</form>
-		<sense>
-			<meaning>plate</meaning>
-			<category>three_dimensional_object</category>
-			<note>semantic value may be round</note>
-		</sense>
-	</lemma>
-	<lemma>
 		<form>se</form>
 		<source>Chinese</source>
 		<sense>
@@ -5804,14 +5796,6 @@
 		<sense>
 			<meaning>evidence</meaning>
 			<category>cognition</category>
-		</sense>
-	</lemma>
-	<lemma>
-		<form>phaj</form>
-		<source>Chinese</source>
-		<sense>
-			<meaning>flat plate</meaning>
-			<category>three_dimensional_object</category>
 		</sense>
 	</lemma>
 	<lemma>
