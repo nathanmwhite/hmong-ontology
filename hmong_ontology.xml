@@ -1680,6 +1680,12 @@
 			<meaning>tradition</meaning>
 			<category>cognition</category>
 		</sense>
+		<sense>
+			<meaning>rite</meaning>
+			<meaning>ceremony</meaning>
+			<category>act</category>
+			<note>conceptually treated as one_dimensional_nonrigid_object through metaphor via kab and kev</note>
+		</sense>
 	</lemma>
 	<lemma>
 		<form>tes</form>
@@ -4694,15 +4700,6 @@
 			<meaning>news</meaning>
 			<category>communication</category>
 			<note>conceptually treated as one_dimensional_nonrigid_object through metaphor</note>
-		</sense>
-	</lemma>
-	<lemma>
-		<form>kab_ke</form>
-		<sense>
-			<meaning>rite</meaning>
-			<meaning>ceremony</meaning>
-			<category>act</category>
-			<note>conceptually treated as one_dimensional_nonrigid_object through metaphor via kab and kev</note>
 		</sense>
 	</lemma>
 	<lemma>
