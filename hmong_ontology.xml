@@ -2586,6 +2586,10 @@
 			<meaning>top_part</meaning>
 			<category>three_dimensional_object</category>
 		</sense>
+		<sense>
+			<meaning>comb</meaning>
+			<category>object</category>
+		</sense>
 	</lemma>
 	<lemma>
 		<form>plhaub</form>
@@ -6275,6 +6279,23 @@
 		<sense>
 			<meaning>honey</meaning>
 			<category>substance</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>cuab_kav</form>
+		<sense>
+			<meaning>ability</meaning>
+			<category>cognition</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>pej_xeem</form>
+		<sense>
+			<meaning>population</meaning>
+			<meaning>populace</meaning>
+			<meaning>citizens</meaning>
+			<meaning>inhabitants</meaning>
+			<category>group</category>
 		</sense>
 	</lemma>
 </word_set>
