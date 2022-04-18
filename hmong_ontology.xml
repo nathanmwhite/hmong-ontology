@@ -6314,4 +6314,12 @@
 			<meaning>fine</meaning>
 			<category>possession</category>
 		</sense>
+	</lemma>
+	<lemma>
+		<form>nplaim</form>
+		<sense>
+			<meaning>surface</meaning>
+			<category>two_dimensional_object</category>
+		</sense>
+	</lemma>
 </word_set>
