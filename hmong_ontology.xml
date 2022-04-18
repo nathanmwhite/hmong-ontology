@@ -2114,6 +2114,12 @@
 	<lemma>
 		<form>kaus</form>
 		<sense>
+			<meaning>fang</meaning>
+			<meaning>tusk</meaning>
+			<meaning>beak</meaning>
+			<category>one_dimensional_body_part</category>
+		</sense>
+		<sense>
 			<meaning>umbrella</meaning>
 			<category>three_dimensional_object</category>
 		</sense>
@@ -5529,19 +5535,6 @@
 		<sense>
 			<meaning>corner</meaning>
 			<category>three_dimensional_space</category>
-		</sense>
-	</lemma>
-	<lemma>
-		<form>kaus</form>
-		<sense>
-			<meaning>fang</meaning>
-			<meaning>tusk</meaning>
-			<meaning>beak</meaning>
-			<category>one_dimensional_body_part</category>
-		</sense>
-		<sense>
-			<meaning>umbrella</meaning>
-			<category>three_dimensional_object</category>
 		</sense>
 	</lemma>
 	<lemma>
