@@ -3586,6 +3586,7 @@
 	</lemma>
 	<lemma>
 		<form>pos_hniav</form>
+		<note>may be compositional</note>
 		<sense>
 			<meaning>gums</meaning>
 			<category>body</category>
@@ -5744,17 +5745,6 @@
 		<sense>
 			<meaning>spiritual being</meaning>
 			<category>person</category>
-		</sense>
-	</lemma>
-	<lemma>
-		<form>pos</form>
-		<sense>
-			<meaning>thorn</meaning>
-			<category>object</category>
-		</sense>
-		<sense>
-			<meaning>gums</meaning>
-			<category>body</category>
 		</sense>
 	</lemma>
 	<lemma>
