@@ -2282,9 +2282,13 @@
 		<variant>fwj_chim</variant>
 		<source>Chinese</source>
 		<sense>
-			<meaning>power</meaning>
 			<meaning>prestige</meaning>
 			<category>state</category>
+		</sense>
+		<sense>
+			<meaning>power</meaning>
+			<meaning>authority</meaning>
+			<category>attribute</category>
 		</sense>
 	</lemma>
 	<lemma>
@@ -4546,15 +4550,6 @@
 		<sense>
 			<meaning>urine</meaning>
 			<category>substance</category>
-		</sense>
-	</lemma>
-	<lemma>
-		<form>hwj_chim</form>
-		<variant>fwj_chim</variant>
-		<source>Chinese</source>
-		<sense>
-			<meaning>authority</meaning>
-			<category>attribute</category>
 		</sense>
 	</lemma>
 	<lemma>
