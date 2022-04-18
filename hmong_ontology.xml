@@ -1307,6 +1307,10 @@
 			<meaning>garden</meaning>
 			<category>three_dimensional_object</category>
 		</sense>
+		<sense>
+			<meaning>king</meaning>
+			<category>person</category>
+		</sense>
 	</lemma>
 	<lemma>
 		<form>paj</form>
@@ -6322,13 +6326,6 @@
 		<sense>
 			<meaning>lead metal</meaning>
 			<category>substance</category>
-		</sense>
-	</lemma>
-	<lemma>
-		<form>vaj</form>
-		<sense>
-			<meaning>king</meaning>
-			<category>person</category>
 		</sense>
 	</lemma>
 	<lemma>
