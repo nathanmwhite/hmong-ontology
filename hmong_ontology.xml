@@ -5031,6 +5031,16 @@
 			<category>three_dimensional_object</category>
 			<note>semantics may actually be round</note>
 		</sense>
+		<sense>
+			<meaning>center</meaning>
+			<meaning>camp</meaning>
+			<category>three_dimensional_object</category>
+		</sense>
+		<sense>
+			<meaning>campsite</meaning>
+			<meaning>encampment</meaning>
+			<category>location</category>
+		</sense>
 	</lemma>
 	<lemma>
 		<form>kiab_khw</form>
