@@ -3265,6 +3265,11 @@
 			<meaning>skin</meaning>
 			<category>two_dimensional_object</category>
 		</sense>
+		<sense>
+			<meaning>bark</meaning>
+			<category>object</category>
+			<note>may need to revisit category</note>
+		</sense>
 	</lemma>
 	<lemma>
 		<form>nplooj</form>
