@@ -3510,7 +3510,7 @@
 		<note>coordinate compound</note>
 		<sense>
 			<meaning>face</meaning>
-			<category>three_dimensional_object</category>
+			<category>three_dimensional_body_part</category>
 		</sense>
 	</lemma>
 	<lemma>
@@ -5587,14 +5587,6 @@
 		<sense>
 			<meaning>wheat</meaning>
 			<category>plant</category>
-		</sense>
-	</lemma>
-	<lemma>
-		<form>ntsej_muag</form>
-		<note>coordinate compound</note>
-		<sense>
-			<meaning>face</meaning>
-			<category>body</category>
 		</sense>
 	</lemma>
 	<lemma>
