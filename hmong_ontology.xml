@@ -933,6 +933,17 @@
 			<meaning>stick</meaning>
 			<category>one_dimensional_object</category>
 		</sense>
+		<sense>
+			<meaning>staff</meaning>
+			<meaning>rod</meaning>
+			<category>tool</category>
+			<note>may also be one_dimensional_object; cf. qws</note>
+		</sense>
+		<sense>
+			<meaning>pool</meaning>
+			<meaning>lake</meaning>
+			<category>three_dimensional_object</category>
+		</sense>
 	</lemma>
 	<lemma>
 		<form>nuv</form>
@@ -4760,20 +4771,6 @@
 		<sense>
 			<meaning>arrow</meaning>
 			<category>one_dimensional_object</category>
-		</sense>
-	</lemma>
-	<lemma>
-		<form>pas</form>
-		<sense>
-			<meaning>pool</meaning>
-			<meaning>lake</meaning>
-			<category>three_dimensional_object</category>
-		</sense>
-		<sense>
-			<meaning>staff</meaning>
-			<meaning>rod</meaning>
-			<category>tool</category>
-			<note>may also be one_dimensional_object; cf. qws</note>
 		</sense>
 	</lemma>
 	<lemma>
