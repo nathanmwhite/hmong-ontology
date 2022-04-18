@@ -5183,6 +5183,7 @@
 	</lemma>
 	<lemma>
 		<form>lej</form>
+		<variant>leb</variant>
 		<sense>
 			<meaning>number</meaning>
 			<category>symbol</category>
@@ -6200,14 +6201,6 @@
 		<sense>
 			<meaning>wick</meaning>
 			<category>object</category>
-		</sense>
-	</lemma>
-	<lemma>
-		<form>leb</form>
-		<variant>lej</variant>
-		<sense>
-			<meaning>mathematics</meaning>
-			<category>cognition</category>
 		</sense>
 	</lemma>
 	<lemma>
