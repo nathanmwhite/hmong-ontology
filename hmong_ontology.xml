@@ -5468,6 +5468,7 @@
 	<lemma>
 		<form>kaub_puab</form>
 		<sense>
+			<meaning>callouses</meaning>
 			<meaning>crust</meaning>
 			<meaning>scab</meaning>
 			<category>object</category>
@@ -5707,14 +5708,6 @@
 		<sense>
 			<meaning>spiritual being</meaning>
 			<category>person</category>
-		</sense>
-	</lemma>
-	<lemma>
-		<form>kaub_puab</form>
-		<sense>
-			<meaning>callouses</meaning>
-			<meaning>scab</meaning>
-			<category>object</category>
 		</sense>
 	</lemma>
 	<lemma>
