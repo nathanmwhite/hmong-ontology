@@ -823,6 +823,10 @@
 			<meaning>husband</meaning>
 			<category>affinal_relation</category>
 		</sense>
+		<sense>
+			<meaning>fruit</meaning>
+			<category>three_dimensional_object</category>
+		</sense>
 	</lemma>
 	<lemma>
 		<form>xeeb_ntxwv</form>
@@ -2876,21 +2880,6 @@
 		<sense>
 			<meaning>shovel</meaning>
 			<category>tool</category>
-		</sense>
-	</lemma>
-	<lemma>
-		<form>txiv</form>
-		<sense>
-			<meaning>fruit</meaning>
-			<category>three_dimensional_body_part</category>
-		</sense>
-		<sense>
-			<meaning>husband</meaning>
-			<category>affinal_relation</category>
-		</sense>
-		<sense>
-			<meaning>father</meaning>
-			<category>consanguineal_relation</category>
 		</sense>
 	</lemma>
 	<lemma>
