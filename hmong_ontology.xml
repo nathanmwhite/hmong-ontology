@@ -1281,6 +1281,7 @@
 		<form>kooj</form>
 		<sense>
 			<meaning>grasshopper</meaning>
+			<meaning>locust</meaning>
 			<category>animal</category>
 		</sense>
 	</lemma>
@@ -4712,13 +4713,6 @@
 			<meaning>story</meaning>
 			<meaning>legend</meaning>
 			<category>communication</category>
-		</sense>
-	</lemma>
-	<lemma>
-		<form>kooj</form>
-		<sense>
-			<meaning>locust</meaning>
-			<category>animal</category>
 		</sense>
 	</lemma>
 	<lemma>
