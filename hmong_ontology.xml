@@ -3215,6 +3215,10 @@
 			<meaning>blanket</meaning>
 			<category>two_dimensional_object</category>
 		</sense>
+		<sense>
+			<meaning>funeral rites</meaning>
+			<category>event</category>
+		</sense>
 	</lemma>
 	<lemma>
 		<form>lev</form>
@@ -5694,13 +5698,6 @@
 			<meaning>sausage</meaning>
 			<meaning>hot dog</meaning>
 			<category>food</category>
-		</sense>
-	</lemma>
-	<lemma>
-		<form>pam</form>
-		<sense>
-			<meaning>funeral rites</meaning>
-			<category>event</category>
 		</sense>
 	</lemma>
 	<lemma>
