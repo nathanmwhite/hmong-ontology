@@ -138,6 +138,45 @@
 	<category>
 		<term>process</term>
 	</category>
+	<category>
+		<term>verb.body</term>
+	</category>
+	<category>
+		<term>verb.stative</term>
+	</category>
+	<category>
+		<term>verb.motion</term>
+	</category>
+	<category>
+		<term>verb.contact</term>
+	</category>
+	<category>
+		<term>verb.communication</term>
+	</category>
+	<category>
+		<term>verb.competition</term>
+	</category>
+	<category>
+		<term>verb.change</term>
+	</category>
+	<category>
+		<term>verb.perception</term>
+	</category>
+	<category>
+		<term>verb.social</term>
+	</category>
+	<category>
+		<term>verb.possession</term>
+	</category>
+	<category>
+		<term>verb.consumption</term>
+	</category>
+	<category>
+		<term>verb.emotion</term>
+	</category>
+	<category>
+		<term>verb.creation</term>
+	</category>
 </category_set>
 <status_set>
 	<status>foreign_word</status>
