@@ -7907,6 +7907,7 @@
 		<sense>
 			<meaning>counsel</meaning>
 			<meaning>advise</meaning>
+			<meaning>urge</meaning>
 			<category>verb.communication</category>
 		</sense>
 	</lemma>
@@ -9381,6 +9382,10 @@
 			<meaning>split</meaning>
 			<category>verb.social</category>
 		</sense>
+		<sense>
+			<meaning>excite</meaning>
+			<category>verb.emotion</category>
+		</sense>
 	</lemma>
 	<lemma>
 		<form>txhij</form>
@@ -9806,5 +9811,91 @@
 			<meaning>be pointy</meaning>
 			<category>verb.stative</category>
 		</sense>
-	</lemma>		
+	</lemma>
+	<lemma>
+		<form>yeem</form>
+		<sense>
+			<meaning>agree</meaning>
+			<category>verb.communication</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>ntsuam</form>
+		<sense>
+			<meaning>investigate</meaning>
+			<category>verb.communication</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>laub</form>
+		<sense>
+			<meaning>pour</meaning>
+			<category>verb.motion</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>pauj</form>
+		<sense>
+			<meaning>repay</meaning>
+			<category>verb.possession</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>kaj</form>
+		<sense>
+			<meaning>suppose</meaning>
+			<category>verb.cognition</category>
+			<note>may need to revisit category</note>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>txw</form>
+		<sense>
+			<meaning>dissuade</meaning>
+			<category>verb.communication</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>nyiag</form>
+		<sense>
+			<meaning>steal</meaning>
+			<category>verb.possession</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>zeem</form>
+		<sense>
+			<meaning>admit</meaning>
+			<category>verb.communication</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>hawv</form>
+		<sense>
+			<meaning>threaten</meaning>
+			<category>verb.communication</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>yws</form>
+		<sense>
+			<meaning>mutter</meaning>
+			<category>verb.communication</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>ntxhi</form>
+		<sense>
+			<meaning>whisper</meaning>
+			<category>verb.communication</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>lees</form>
+		<sense>
+			<meaning>acknowledge</meaning>
+			<meaning>accept</meaning>
+			<category>verb.communication</category>
+		</sense>
+	</lemma>
 </word_set>
