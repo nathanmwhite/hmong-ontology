@@ -31,6 +31,7 @@
 	<category>
 		<term>affinal_relation</term>
 		<superordinate>family_relation</superordinate>
+	</category>
 	<category>
 		<term>object</term>
 	</category>
@@ -114,6 +115,7 @@
 	<category>
 		<term>paired_body_part</term>
 		<superordinate>body</superordinate>
+	</category>
 	<category>
 		<term>substance</term>
 	</category>
@@ -8517,7 +8519,7 @@
 	<lemma>
 		<form>rau</form>
 		<sense>
-			<meaning>wear shoes</meaning>
+			<meaning>wear_shoes</meaning>
 			<category>verb.body</category>
 		</sense>
 		<sense>
@@ -8528,21 +8530,21 @@
 	<lemma>
 		<form>raub</form>
 		<sense>
-			<meaning>scratch looking for food as a chicken</meaning>
+			<meaning>scratch_looking_for_food_as_a_chicken</meaning>
 			<category>verb.contact</category>
 		</sense>
 	</lemma>
 	<lemma>
 		<form>raug</form>
 		<sense>
-			<meaning>be adversely affected by</meaning>
+			<meaning>be_adversely_affected by</meaning>
 			<category>verb.stative</category>
 		</sense>
 	</lemma>
 	<lemma>
 		<form>rauv</form>
 		<sense>
-			<meaning>burn something</meaning>
+			<meaning>burn_something</meaning>
 			<category>verb.change</category>
 		</sense>
 	</lemma>
@@ -8558,8 +8560,8 @@
 	<lemma>
 		<form>rho</form>
 		<sense>
-			<meaning>tear out</meaning>
-			<meaning>pull out</meaning>
+			<meaning>tear_out</meaning>
+			<meaning>pull_out</meaning>
 			<category>verb.contact</category>
 		</sense>
 	</lemma>
@@ -8575,7 +8577,7 @@
 	<lemma>
 		<form>ris</form>
 		<sense>
-			<meaning>carry on back</meaning>
+			<meaning>carry_on_back</meaning>
 			<category>verb.contact</category>
 		</sense>
 	</lemma>
@@ -8589,9 +8591,9 @@
 	<lemma>
 		<form>ruam</form>
 		<sense>
-			<meaning>be foolish</meaning>
-			<meaning>be dumb</meaning>
-			<meaning>be stupid</meaning>
+			<meaning>be_foolish</meaning>
+			<meaning>be_dumb</meaning>
+			<meaning>be_stupid</meaning>
 			<category>verb.stative</category>
 		</sense>
 	</lemma>
@@ -8612,28 +8614,32 @@
 	<lemma>
 		<form>sab</form>
 		<sense>
-			<meaning>be tired</meaning>
+			<meaning>be_tired</meaning>
 			<category>verb.stative</category>
 		</sense>
 	</lemma>
 	<lemma>
 		<form>sai</form>
 		<sense>
-			<meaning>be fast</meaning>
+			<meaning>be_fast</meaning>
 			<category>verb.stative</category>
+		</sense>
+		<sense>
+			<meaning>mountain_goat</meaning>
+			<category>animal</category>
 		</sense>
 	</lemma>
 	<lemma>
 		<form>saib_xyuas</form>
 		<sense>
-			<meaning>take care of</meaning>
+			<meaning>take_care_of</meaning>
 			<category>verb.social</category>
 		</sense>
 	</lemma>
 	<lemma>
 		<form>saib</form>
 		<sense>
-			<meaning>look at</meaning>
+			<meaning>look_at</meaning>
 			<category>verb.perception</category>
 		</sense>
 	</lemma>
@@ -9918,8 +9924,8 @@
 			<category>verb.change</category>
 		</sense>
 		<sense>
-			<meaning>be chipped</meaning>
-			<meaning>be fractured</meaning>
+			<meaning>be_chipped</meaning>
+			<meaning>be_fractured</meaning>
 			<category>verb.stative</category>
 		</sense>
 	</lemma>
@@ -9949,9 +9955,91 @@
 	<lemma>
 		<form>vam_meej</form>
 		<sense>
-			<meaning>be developed</meaning>
-			<meaning>be civilized</meaning>
+			<meaning>be_developed</meaning>
+			<meaning>be_civilized</meaning>
 			<category>verb.stative</category>
 		</sense>
 	</lemma>
+	<lemma>
+		<form>ntsaj</form>
+		<sense>
+			<meaning>groan</meaning>
+			<meaning>moan</meaning>
+			<category>verb.communication</category>
+			<note>may need to revisit category</note>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>haiv</form>
+		<sense>
+			<meaning>harrow</meaning>
+			<meaning>till</meaning>
+			<category>verb.change</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>hov</form>
+		<sense>
+			<meaning>sharpen</meaning>
+			<category>verb.change</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>hus</form>
+		<sense>
+			<meaning>scoop_together</meaning>
+			<category>verb.change</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>ciab</form>
+		<sense>
+			<meaning>fir_tree</meaning>
+			<meaning>larch_tree</meaning>
+			<category>plant</category>
+			<note>may need to revisit meaning</note>
+		</sense>
+		<sense>
+			<meaning>wax</meaning>
+			<category>substance</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>hli_nqig</form>
+		<sense>
+			<meaning>after_full_moon</meaning>
+			<meaning>gibbous_moon</meaning>
+			<category>object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>hli_xiab</form>
+		<sense>
+			<meaning>new_moon</meaning>
+			<meaning>crescent_moon</meaning>
+			<category>object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>hli_nra</form>
+		<sense>
+			<meaning>full_moon</meaning>
+			<category>object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>tseev</form>
+		<source>Chinese</source>
+		<sense>
+			<meaning>skylark</meaning>
+			<category>animal</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>ntas</form>
+		<sense>
+			<meaning>wave_of_water</meaning>
+			<meaning>be_wavy</meaning>
+			<category>verb.motion</category>
+		</sense>
 </word_set>
