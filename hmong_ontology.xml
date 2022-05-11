@@ -7319,6 +7319,10 @@
 			<meaning>be short in length</meaning>
 			<category>verb.stative</category>
 		</sense>
+		<sense>
+			<meaning>swallow</meaning>
+			<category>animal</category>
+		</sense>
 	</lemma>
 	<lemma>
 		<form>lwj</form>
@@ -8406,6 +8410,10 @@
 		<sense>
 			<meaning>open</meaning>
 			<category>verb.contact</category>
+		</sense>
+		<sense>
+			<meaning>oak tree</meaning>
+			<category>plant</category>
 		</sense>
 	</lemma>
 	<lemma>
@@ -9896,6 +9904,57 @@
 			<meaning>acknowledge</meaning>
 			<meaning>accept</meaning>
 			<category>verb.communication</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>nre</form>
+		<sense>
+			<meaning>pleat</meaning>
+			<category>object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>ntais</form>
+		<sense>
+			<meaning>break</meaning>
+			<meaning>separate</meaning>
+			<category>verb.change</category>
+		</sense>
+		<sense>
+			<meaning>be chipped</meaning>
+			<meaning>be fractured</meaning>
+			<category>verb.stative</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>ntxhuab</form>
+		<sense>
+			<meaning>moss</meaning>
+			<category>plant</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>nkaj</form>
+		<sense>
+			<meaning>indigo</meaning>
+			<category>plant</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>pliag_deg</form>
+		<sense>
+			<meaning>mussel</meaning>
+			<meaning>clam</meaning>
+			<meaning>mollusk</meaning>
+			<category>animal</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>vam_meej</form>
+		<sense>
+			<meaning>be developed</meaning>
+			<meaning>be civilized</meaning>
+			<category>verb.stative</category>
 		</sense>
 	</lemma>
 </word_set>
