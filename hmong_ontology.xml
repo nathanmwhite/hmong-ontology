@@ -1024,18 +1024,6 @@
 		</sense>
 	</lemma>
 	<lemma>
-		<form>ntoo</form>
-		<sense>
-			<meaning>tree trunk</meaning>
-			<meaning>log</meaning>
-			<category>one_dimensional_object</category>
-		</sense>
-		<sense>
-			<meaning>tree</meaning>
-			<category>plant</category>
-		</sense>
-	</lemma>
-	<lemma>
 		<form>cav</form>
 		<sense>
 			<meaning>log</meaning>
@@ -7832,6 +7820,15 @@
 		<sense>
 			<meaning>wear a hat</meaning>
 			<category>verb.body</category>
+		</sense>
+		<sense>
+			<meaning>tree trunk</meaning>
+			<meaning>log</meaning>
+			<category>one_dimensional_object</category>
+		</sense>
+		<sense>
+			<meaning>tree</meaning>
+			<category>plant</category>
 		</sense>
 	</lemma>
 	<lemma>
