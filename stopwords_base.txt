@@ -1,3 +1,7 @@
+# This file contains the set of stopwords for Hmong.
+# The format is <word>\t<code>, where <code> is WH
+#  for White Hmong or GM for Green Mong, where the
+#  two lects are different.
 #TODO:
 # add all localizers
 # add all classifiers as separate document
