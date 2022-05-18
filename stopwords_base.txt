@@ -8,9 +8,13 @@
 # add all quantifiers
 # add all verbal modifiers
 # add all CFPs
+# add remaining adjectives
+# copula
 yog
+# various
 li	WH
 le	GM
+# pronouns
 kuv
 koj
 nws	WH
@@ -30,6 +34,7 @@ yug
 luag
 sawv daws	WH
 suav dlawg	GM
+# quantifiers
 ob
 plaub
 tsib
@@ -49,6 +54,7 @@ vaam	GM
 pes tsawg
 puas tsawg
 pis tsawg
+# verbal modifiers
 kuj
 ho
 thiaj li	WH
@@ -74,6 +80,7 @@ laam	GM
 tsis
 tsi
 xwb
+# conjunctions
 tab sis
 tiam sis	WH
 vim
@@ -87,6 +94,7 @@ kom
 kuas
 uas	WH
 kws
+# localizers
 thaum	WH
 thaus	GM
 ntawm
@@ -108,8 +116,12 @@ ko
 i
 ub
 u
+# question words
 dab tsi
 dlaab tsi	GM
 twg
 cas
 caag	GM
+# adjectives
+niag  WH
+nyuag WH
