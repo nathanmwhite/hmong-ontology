@@ -1,0 +1,111 @@
+#TODO:
+# add all localizers
+# add all classifiers as separate document
+# add all quantifiers
+# add all verbal modifiers
+# add all CFPs
+yog
+li	WH
+le	GM
+kuv
+koj
+nws	WH
+nwg	GM
+wb	WH
+ib
+neb	WH
+meb	GM
+nkawv	WH
+peb
+nej	WH
+mej	GM
+lawv	
+puab	GM
+yus	WH
+yug
+luag
+sawv daws	WH
+suav dlawg	GM
+ob
+plaub
+tsib
+rau
+xya
+xyaa	GM
+cuaj
+kaum
+neeg nkaum
+caug
+pua
+puas
+txhiab	WH
+txheeb
+vam
+vaam	GM
+pes tsawg
+puas tsawg
+pis tsawg
+kuj
+ho
+thiaj li	WH
+txhaj le	GM
+thiaj	WH
+mam
+maam	GM
+mam li
+maam le	GM
+le maam	GM
+tseem
+tab tom
+taab tom	GM
+twb
+yuav
+yuav tau
+yuav tsum
+yuav tsum tau
+tsum
+tau
+lam
+laam	GM
+tsis
+tsi
+xwb
+tab sis
+tiam sis	WH
+vim
+thiab	WH
+hab
+hais tias	WH
+has tas	GM
+tias	WH
+tas
+kom
+kuas
+uas	WH
+kws
+thaum	WH
+thaus	GM
+ntawm
+ntawd
+tom
+tod
+tim
+tid
+saum
+saud
+sau
+pem
+ped
+pes
+no
+nov
+nuav
+ko
+i
+ub
+u
+dab tsi
+dlaab tsi	GM
+twg
+cas
+caag	GM
