@@ -1341,6 +1341,11 @@
 			<meaning>king</meaning>
 			<category>person</category>
 		</sense>
+		<sense>
+			<variant>vag</variant>
+			<meaning>fence</meaning>
+			<category>three_dimensional_object</category>
+		</sense>
 	</lemma>
 	<lemma>
 		<form>paj</form>
@@ -10042,4 +10047,86 @@
 			<meaning>be_wavy</meaning>
 			<category>verb.motion</category>
 		</sense>
+	</lemma>
+	<lemma>
+		<form>pov_haum</form>
+		<source>Chinese</source>
+		<sense>
+			<meaning>charm</meaning>
+			<meaning>amulet</meaning>
+			<category>object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>rooj_vag</form>
+		<sense>
+			<meaning>doorway</meaning>
+			<meaning>gate</meaning>
+			<meaning>entrance</meaning>
+			<category>three_dimensional_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>nruab_thiab</form>
+		<sense>
+			<meaning>fetal_stage</meaning>
+			<meaning>prenatal_development</meaning>
+			<meaning>fetal_state</meaning>
+			<category>state</category>
+			<note>may be conceptualized as a location</note>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>khib_xeeb</form>
+		<sense>
+			<meaning>be_jealous</meaning>
+			<category>verb.stative</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>ntsaim</form>
+		<sense>
+			<meaning>smoothen</meaning>
+			<category>verb.change</category>
+		</sense>
+		<sense>
+			<meaning>wood_smoother</meaning>
+			<category>three_dimensional_object</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>xeeb_txob</form>
+		<source>Chinese</source>
+		<sense>
+			<meaning>annoy</meaning>
+			<category>verb.change</category>
+			<note>may need to revisit category</note>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>kuab</form>
+		<sense>
+			<meaning>effect</meaning>
+			<meaning>outcome</meaning>
+			<category>cognition</category>
+			<note>may need to revisit category</note>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>hwj_huaj</form>
+		<sense>
+			<meaning>wizardry</meaning>
+			<meaning>sorcery</meaning>
+			<category>cognition</category>
+			<note>may need to revisit category</note>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>nrib</form>
+		<sense>
+			<meaning>crack</meaning>
+			<category>verb.change</category>
+			<note>review if itr or tr</note>
+		</sense>
+	</lemma>
 </word_set>
