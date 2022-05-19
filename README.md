@@ -1,5 +1,5 @@
 # hmong-ontology
-A semantic ontology resource for the Hmong language, based on WordNet (Fellbaum, 1998).
+A semantic ontology resource for the Hmong language, inspired by WordNet (Fellbaum, 1998).
 
 This repository currently contains the following files:
 1. hmong_ontology.xml : The xml file containing the lexemes (nouns and verbs) and their semantic categories.
