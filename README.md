@@ -11,3 +11,4 @@ This repository currently contains the following files:
 
 TODO:
 1. Create Python code to load the Hmong ontology as a WordNet-style library.
+2. Write documentation.
