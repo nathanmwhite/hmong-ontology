@@ -1,0 +1,48 @@
+# sortal classifiers
+lub
+tus
+tug
+txoj
+txuj
+txog
+txug
+rab
+raab  GM
+txhais
+daim
+daig
+dlaim GM
+# TODO: remaining sortal clf
+
+qhov
+# locative classifiers
+sab
+saab  GM
+# mensural classifiers
+zaj
+zaaj  GM
+zaag  GM
+nqe
+nqai
+kab
+kaab  GM
+pluas
+pluag
+# collective classifiers
+pab
+pab pawg
+pawg
+nkawm
+rev
+re
+# verb classifiers
+# verb sortal classifiers
+riag  WH
+# time classifiers
+zaus
+zaug
+zaum
+zag
+tam sim
+taam sim  GM
+# measure words
