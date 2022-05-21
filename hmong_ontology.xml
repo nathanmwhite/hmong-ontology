@@ -47,6 +47,7 @@
 	<category>
 		<term>one_dimensional_nonrigid_object</term>
 		<superordinate>object</superordinate>
+	</category>
 	<category>
 		<term>two_dimensional_object</term>
 		<superordinate>object</superordinate>
