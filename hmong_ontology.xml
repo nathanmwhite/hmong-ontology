@@ -33,6 +33,9 @@
 		<superordinate>family_relation</superordinate>
 	</category>
 	<category>
+		<term>ethnicity</term>
+		<superordinate>person</superordinate>
+	<category>
 		<term>object</term>
 	</category>
 	<category>
@@ -10127,6 +10130,113 @@
 			<meaning>crack</meaning>
 			<category>verb.change</category>
 			<note>review if itr or tr</note>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>Hmoob</form>
+		<sense>
+			<meaning>Hmong</meaning>
+			<category>ethnicity</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>Co</form>
+		<sense>
+			<meaning>Mien</meaning>
+			<category>ethnicity</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>Pub_Thawj</form>
+		<sense>
+			<meaning>Khmu</meaning>
+			<category>ethnicity</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>Los_Tsuas</form>
+		<sense>
+			<meaning>Lao</meaning>
+			<category>ethnicity</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>Thaib</form>
+		<sense>
+			<meaning>Thai</meaning>
+			<category>ethnicity</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>Suav</form>
+		<sense>
+			<meaning>Han_Chinese</meaning>
+			<category>ethnicity</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>Nyab_Laj</form>
+		<source>Chinese</source>
+		<note>source is likely Southwest Mandarin, given the consonant initials</note>
+		<sense>
+			<meaning>Vietnamese</meaning>
+			<category>ethnicity</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>Mab</form>
+		<sense>
+			<meaning>Mal</meaning>
+			<meaning>Nuosu</meaning>
+			<meaning>Yi</meaning>
+			<category>ethnicity</category>
+			<note>Laotian Hmong may not be fully aware of the original referent group of this term</note>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>Mab_Phaib</form>
+		<sense>
+			<meaning>Lua</meaning>
+			<category>ethnicity</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>Mes_Kas</form>
+		<variant>Meskas</variant>
+		<variant>As_Mes_Kas</variant>
+		<variant>As_Mes_Lis_Kas</variant>
+		<status>foreign word</status>
+		<source>English</source>
+		<sense>
+			<meaning>American</meaning>
+			<meaning>white_person</meaning>
+			<category>ethnicity</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>Fab_Kis</form>
+		<sense>
+			<meaning>French</meaning>
+			<category>ethnicity</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>Nyij_Pooj</form>
+		<status>foreign_word</status>
+		<source>Lao</source>
+		<sense>
+			<meaning>Japanese</meaning>
+			<category>ethnicity</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>Mev</form>
+		<status>foreign_word</status>
+		<source>English</source>
+		<sense>
+			<meaning>Mexican</meaning>
+			<category>ethnicity</category>
+			<note>this term may only be known in America</note>
 		</sense>
 	</lemma>
 </word_set>
