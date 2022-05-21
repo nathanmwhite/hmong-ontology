@@ -10239,4 +10239,14 @@
 			<note>this term may only be known in America</note>
 		</sense>
 	</lemma>
+	<lemma>
+		<form>Phab_Mab</form>
+		<status>foreign_word</status>
+		<source>Lao</source>
+		<sense>
+			<meaning>Burmese</meaning>
+			<meaning>Myanmar</meaning>
+			<category>ethnicity</category>
+		</sense>
+	</lemma>
 </word_set>
