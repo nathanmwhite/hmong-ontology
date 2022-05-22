@@ -10251,4 +10251,14 @@
 			<category>ethnicity</category>
 		</sense>
 	</lemma>
+	<lemma>
+		<form>tas_luaj</form>
+		<status>foreign_word</status>
+		<source>Lao</source>
+		<sense>
+			<meaning>police</meaning>
+			<category>person</category>
+			<note>may need to revisit category</note>
+		</sense>
+	</lemma>
 </word_set>
