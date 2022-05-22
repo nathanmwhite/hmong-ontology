@@ -12,32 +12,70 @@ txhais
 daim
 daig
 dlaim GM
-# TODO: remaining sortal clf
-
 qhov
-# locative classifiers
+# locational classifiers
 sab
 saab  GM
+ntaav GM
+ntaa  GM
+nta WH
 # mensural classifiers
 zaj
 zaaj  GM
 zaag  GM
 nqe
-nqai
+nqai  GM
 kab
 kaab  GM
 pluas
 pluag
+rev
+re
+kauj
+qais
+lo  WH
+lu  GM
+paas  GM
+thij
+kuam
+tsob
+thaj
+thooj
+chav  WH
+chaav GM
+phau
+phoo  GM
+tsab  WH
+tsaab GM
+cov
+ce
+nthwv
+kob
+khaw
+npaug
+nploog
+ntwg
+ntsug
+tauv
 # collective classifiers
 pab
 pab pawg
 pawg
 nkawm
-rev
-re
+tiam  WH
+# kind classifier
+yam WH
+yaam  GM
+hom
+# measure words
+lav
+dlus  GM
+tshim
+xib
 # verb classifiers
 # verb sortal classifiers
 riag  WH
+plhaw
 # time classifiers
 zaus
 zaug
@@ -45,4 +83,3 @@ zaum
 zag
 tam sim
 taam sim  GM
-# measure words
