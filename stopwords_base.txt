@@ -68,6 +68,7 @@ huv tib si  WH
 tib si  WH
 huv tuab si GM
 tuab si GM
+tib WH
 # verbal modifiers
 tsam
 nyob tsaam  GM
