@@ -3,12 +3,8 @@
 #  for White Hmong or GM for Green Mong, where the
 #  two lects are different.
 #TODO:
-# add all localizers
 # add all classifiers as separate document
 # add all quantifiers
-# add all verbal modifiers
-# add all CFPs
-# add remaining adjectives
 # copula
 yog
 # various
@@ -36,6 +32,7 @@ sawv daws	WH
 suav dlawg	GM
 # quantifiers
 xoom
+ntxaiv
 ob
 plaub
 tsib
@@ -44,6 +41,7 @@ xya
 xyaa	GM
 cuaj
 kaum
+nees nkaum
 neeg nkaum
 caug
 caum
@@ -55,9 +53,21 @@ txhiab	WH
 txheeb
 vam
 vaam	GM
+plhom
+zeeg
+thib
 pes tsawg
 puas tsawg
 pis tsawg
+tej
+qee
+puav
+lwm
+huv si
+huv tib si  WH
+tib si  WH
+huv tuab si GM
+tuab si GM
 # verbal modifiers
 tsam
 nyob tsaam  GM
