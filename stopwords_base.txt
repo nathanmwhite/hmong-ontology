@@ -51,7 +51,7 @@ caum
 pua
 puas
 phav
-phaav GM
+phaav	GM
 txhiab	WH
 txheeb
 vam
@@ -68,37 +68,37 @@ puav
 thawj
 lwm
 huv si
-huv tib si  WH
-tib si  WH
-huv tuab si GM
-tuab si GM
-tib WH
+huv tib si	WH
+tib si	WH
+huv tuab si	GM
+tuab si	GM
+tib	WH
 # verbal modifiers
 tsam
-nyob tsaam  GM
+nyob tsaam	GM
 tej zaum
 tej zag
-xyov  WH
+xyov	WH
 sov GM
 ntshai
 ntshe
 kuj
-tiag  WH
+tiag	WH
 kiag
-nyias WH
+nyias	WH
 nyag
 ho
-cia li  WH
-ca le GM
+cia li	WH
+ca le	GM
 haj yam
 ib txwm
-maj mam WH
-maaj maam GM
-nyuam qhuav WH
+maj mam	WH
+maaj maam	GM
+nyuam qhuav	WH
 nyav
 pheej
-sam sim WH
-saam sim  GM
+sam sim	WH
+saam sim	GM
 sij
 tsuas
 thiaj li	WH
@@ -129,8 +129,8 @@ nraim
 zuj zus
 qees
 quj qees
-tib tiag  WH
-tuab tag  GM
+tib tiag	WH
+tuab tag	GM
 tsawv
 tsim tsawv
 tsem tsawv
@@ -160,11 +160,11 @@ mas
 ces
 es
 seb
-rau qhov  WH
-rua qhov  GM
+rau qhov	WH
+rua qhov	GM
 yeeb vim
-tab txawm WH
-taab txawm  GM
+tab txawm	WH
+taab txawm	GM
 # localizers
 thaum	WH
 thaus	GM
@@ -199,13 +199,13 @@ twg
 cas
 caag	GM
 # adjectives
-niag  WH
-nyuag WH
+niag	WH
+nyuag	WH
 tuam
-me nyuam  WH
-miv nyuas GM
-me  WH
-miv GM
+me nyuam	WH
+miv nyuas	GM
+me	WH
+miv	GM
 zoo
 qub
 # clause-final markers
