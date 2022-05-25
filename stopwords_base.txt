@@ -79,7 +79,7 @@ nyob tsaam	GM
 tej zaum
 tej zag
 xyov	WH
-sov GM
+sov	GM
 ntshai
 ntshe
 kuj
@@ -113,7 +113,7 @@ le maam	GM
 tseem
 tab tom
 taab tom	GM
-twb WH
+twb	WH
 yuav
 yuav tau
 yuav tsum
