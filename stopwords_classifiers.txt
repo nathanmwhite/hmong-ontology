@@ -7,47 +7,47 @@ txuj
 txog
 txug
 rab
-raab  GM
+raab	GM
 txhais
 daim
 daig
-dlaim GM
+dlaim	GM
 qhov
 # locational classifiers
 sab
-saab  GM
-ntaav GM
-ntaa  GM
-nta WH
+saab	GM
+ntaav	GM
+ntaa	GM
+nta	WH
 tog
 # mensural classifiers
 zaj
-zaaj  GM
-zaag  GM
+zaaj	GM
+zaag	GM
 nqe
-nqai  GM
+nqai	GM
 kab
-kaab  GM
+kaab	GM
 pluas
 pluag
 rev
 re
 kauj
 qais
-lo  WH
-lu  GM
-paas  GM
+lo	WH
+lu	GM
+paas	GM
 thij
 kuam
 tsob
 thaj
 thooj
-chav  WH
-chaav GM
+chav	WH
+chaav	GM
 phau
-phoo  GM
-tsab  WH
-tsaab GM
+phoo	GM
+tsab	WH
+tsaab	GM
 cov
 cev
 ce
@@ -64,20 +64,20 @@ pab
 pab pawg
 pawg
 nkawm
-tiam  WH
+tiam	WH
 # kind classifier
-yam WH
-yaam  GM
+yam	WH
+yaam	GM
 hom
 # measure words
 lav
-dlus  GM
+dlus	GM
 tshim
 xib
 # verb classifiers
 # verb sortal classifiers
-riam  WH
-riag  WH
+riam	WH
+riag	WH
 phom
 ncig
 lwm
@@ -88,4 +88,4 @@ zaug
 zaum
 zag
 tam sim
-taam sim  GM
+taam sim	GM
