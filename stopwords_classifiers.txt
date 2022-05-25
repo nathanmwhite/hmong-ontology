@@ -19,6 +19,7 @@ saab  GM
 ntaav GM
 ntaa  GM
 nta WH
+tog
 # mensural classifiers
 zaj
 zaaj  GM
@@ -48,6 +49,7 @@ phoo  GM
 tsab  WH
 tsaab GM
 cov
+cev
 ce
 nthwv
 kob
@@ -74,7 +76,11 @@ tshim
 xib
 # verb classifiers
 # verb sortal classifiers
+riam  WH
 riag  WH
+phom
+ncig
+lwm
 plhaw
 # time classifiers
 zaus
