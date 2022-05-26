@@ -23,6 +23,7 @@ ib
 neb	WH
 meb	GM
 nkawv	WH
+nkawd	WH
 peb
 nej	WH
 mej	GM
@@ -65,14 +66,24 @@ pis tsawg
 tej
 qee
 puav
+tib	WH
+tuab
+txhua
+coob
+ntau
+tsawg
 thawj
 lwm
+# semantic quantifiers
 huv si
 huv tib si	WH
 tib si	WH
 huv tuab si	GM
 tuab si	GM
-tib	WH
+tas
+tas nrho	WH
+taag	GM
+taag nrho	GM
 # verbal modifiers
 tsam
 nyob tsaam	GM
@@ -123,7 +134,7 @@ tau
 lam
 laam	GM
 tsis
-tsi
+tsi	GM
 ntsoov
 nraim
 zuj zus
@@ -152,6 +163,9 @@ kom
 kuas
 uas	WH
 kws
+los
+lov
+lod
 los sis
 los yog
 hos
@@ -159,6 +173,9 @@ huas
 mas
 ces
 es
+tes
+nua
+saib
 seb
 rau qhov	WH
 rua qhov	GM
@@ -174,6 +191,7 @@ tom
 tod
 tim
 tid
+hov
 saum
 saud
 sau
@@ -181,9 +199,13 @@ pem
 ped
 peg
 hauv
+huv	GM
 puag
 nraum
 nraud
+nram
+nraam	GM
+nrad
 # demonstratives
 no
 nov
@@ -192,6 +214,18 @@ ko
 i
 ub
 u
+# prepositions
+nyob
+rau
+rua	GM
+txog
+txug
+los
+lug
+tuaj
+mus
+moog
+tau
 # question words
 dab tsi
 dlaab tsi	GM
@@ -200,15 +234,21 @@ cas
 caag	GM
 # adjectives
 niag	WH
+nam
 nyuag	WH
+nyuas	GM
 tuam
 me nyuam	WH
 miv nyuas	GM
 me	WH
+mi	WH
 miv	GM
 zoo
 qub
+laus
+laug
 # clause-final markers
+aub
 auj
 auv
 awb
@@ -216,18 +256,29 @@ aw
 e
 laiv
 las
+lau
+lauj
 ma
 mas
+mog
 na
+nad
 nawb
 nawj
 ne
+ntag
 os
 sob
+soj
 as
+kaj
+nrauj
+pob
+pauj
 sas
 sub
 yom
+yuam
 # interjections
 aub yau
 auj
