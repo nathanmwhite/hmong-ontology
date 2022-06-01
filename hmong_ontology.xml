@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<root>
 <category_set>
 	<category>
 		<term>animal</term>
@@ -10261,3 +10262,4 @@
 		</sense>
 	</lemma>
 </word_set>
+</root>
