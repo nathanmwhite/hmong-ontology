@@ -363,6 +363,7 @@
 			<meaning>infection</meaning>
 			<category>state</category>
 			<note>conceptualization may actually be animal</note>
+		</sense>
 	</lemma>
 	<lemma>
 		<form>tib_neeg</form>
@@ -955,6 +956,7 @@
 			<meaning>way</meaning>
 			<meaning>manner</meaning>
 			<category>act</category>
+		</sense>
 		<sense>
 			<meaning>nominalization</meaning>
 			<category>act</category>
@@ -1216,6 +1218,7 @@
 		<sense>
 			<meaning>joint</meaning>
 			<category>three_dimensional_body_part</category>
+		</sense>
 	</lemma>
 	<lemma>
 		<form>rooj</form>
@@ -1775,6 +1778,7 @@
 			<meaning>marrow</meaning>
 			<category>body</category>
 			<note>more specific category may apply</note>
+		</sense>
 	</lemma>
 	<lemma>
 		<form>suab</form>
@@ -1977,6 +1981,7 @@
 		<sense>
 			<meaning>door</meaning>
 			<category>two_dimensional_object</category>
+		</sense>
 	</lemma>
 	<lemma>
 		<form>qhov_rais</form>
@@ -3087,6 +3092,7 @@
 			<meaning>heart</meaning>
 			<category>cognition</category>
 			<note>sense may be through influence of English</note>
+		</sense>
 	</lemma>
 	<lemma>
 		<form>siab</form>
@@ -3548,7 +3554,7 @@
 	</lemma>
 	<lemma>
 		<form>ntsiab_muag</form>
-		<note>may be noun + modifier</noun>
+		<note>may be noun + modifier</note>
 		<sense>
 			<meaning>pupil</meaning>
 			<category>three_dimensional_body_part</category>
@@ -8277,6 +8283,7 @@
 			<status>foreign_word</status>
 			<source>Lao</source>
 			<category>verb.possession</category>
+		</sense>
 	</lemma>
 	<lemma>
 		<form>pov</form>
