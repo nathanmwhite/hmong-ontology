@@ -11,6 +11,33 @@ __author_email__ = "nathan.white1@jcu.edu.au"
 import xml.etree.ElementTree as ET
 
 
+class Sense:
+    def __init__(self):
+        self.meanings = []
+        self.variants = []
+        self.source = None
+        self.category = None
+    
+    def assign_meaning(meaning_text):
+        self.meanings.append(meaning_text)
+    
+    # TODO: need to protect self.category
+    def assign_category(category_text):
+        if self.category is None:
+            self.category = category_text
+        
+
+class StructuredLemma:
+    def __init__(self, text):
+        self.text = text
+        self.variants = []
+        self.source = None
+        self.senses = []
+        
+    def assign_sense(sense):
+        self.senses.append(sense)
+
+
 class Ontology:
     def __init__(self):
         self._load_ontology_data()
@@ -22,11 +49,17 @@ class Ontology:
 
     def _get_lemma(word):
         word = word.replace(' ', '_')
+        found_lemma = None
         for lemma in word_set.iter('lemma'):
             form = lemma[0]
             if form.text == word:
-                return lemma
-        return None
+                found_lemma = lemma
+        if found_lemma is None:
+            return None
+        
+        lemma_iter = found_lemma.getiterator()
+        for line in lemma_iter:
+            
 
     def lexname(word):
         lemma = _get_lemma(word)
