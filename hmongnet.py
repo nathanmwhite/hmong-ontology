@@ -18,7 +18,7 @@ class Ontology:
     def _load_ontology_data():
         self.tree = ET.parse('hmong_ontology.xml')
         word_set_idx = 3
-        self.word_set = self.tree.getroot)[word_set_idx]
+        self.word_set = self.tree.getroot()[word_set_idx]
 
     def _get_lemma(word):
         word = word.replace(' ', '_')
