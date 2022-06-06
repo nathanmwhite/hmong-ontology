@@ -27,7 +27,7 @@ class Sense:
             self.category = category_text
         
 
-class StructuredLemma:
+class Lemma:
     def __init__(self, text):
         self.text = text
         self.variants = []
@@ -58,8 +58,16 @@ class Ontology:
             return None
         
         lemma_iter = found_lemma.getiterator()
+        lemma_obj = None
+        lemma_sense = None
         for line in lemma_iter:
-            
+            if line.tag == 'form':
+                lemma_obj = Lemma(line.text)
+            elif line.tag == 'sense':
+                pass
+            elif line.tag == 'meaning':
+                pass
+                
 
     def lexname(word):
         lemma = _get_lemma(word)
