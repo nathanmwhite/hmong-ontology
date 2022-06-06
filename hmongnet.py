@@ -60,13 +60,28 @@ class Ontology:
         lemma_iter = found_lemma.getiterator()
         lemma_obj = None
         lemma_sense = None
+        current_sense = None
         for line in lemma_iter:
             if line.tag == 'form':
                 lemma_obj = Lemma(line.text)
+            # TODO: redo 'variant' and 'source' to handle 
+            #     context-specific nesting
+            elif line.tag == 'variant':
+                lemma_obj.variants.append(line.text)
+            elif line.tag == 'source':
+                lemma_obj.source = line.text
             elif line.tag == 'sense':
-                pass
+                current_sense = Sense()
+                lemma_obj.assign_sense(current_sense)
             elif line.tag == 'meaning':
-                pass
+                try:
+                    current_sense.assign_meaning(line.text)
+                except AttributeError:
+                    print('Error: Meaning accessed before a sense was found.')
+                    raise
+            elif line.tag == 'category':
+                lemma_obj.assign_category(line.text)
+        return lemma_obj
                 
 
     def lexname(word):
@@ -74,4 +89,4 @@ class Ontology:
         if lemma == None:
             return []
         else:
-            pass
+            return lemma.category
