@@ -93,4 +93,4 @@ class Ontology:
         if lemma == None:
             return []
         else:
-            return lemma.category
+            return [sense.category for sense in lemma.senses]
