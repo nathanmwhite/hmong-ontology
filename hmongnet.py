@@ -50,7 +50,7 @@ class Ontology:
     def _get_lemma(self, word):
         word = word.replace(' ', '_')
         found_lemma = None
-        for lemma in word_set.iter('lemma'):
+        for lemma in self.word_set.iter('lemma'):
             form = lemma[0]
             if form.text == word:
                 found_lemma = lemma
