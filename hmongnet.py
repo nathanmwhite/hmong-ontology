@@ -25,6 +25,9 @@ class Sense:
     def assign_category(self, category_text):
         if self.category is None:
             self.category = category_text
+            
+    def __repr__(self):
+        return "Sense('"+self.meanings[0].replace(' ', '_')+"-"+self.category+"')"
         
 
 class Lemma:
@@ -36,6 +39,9 @@ class Lemma:
         
     def assign_sense(self, sense):
         self.senses.append(sense)
+        
+    def __repr__(self):
+        return "Lemma('"+self.text.replace(' ', '_')+"')"
 
 
 class Ontology:
