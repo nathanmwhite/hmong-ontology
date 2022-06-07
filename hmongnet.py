@@ -80,7 +80,11 @@ class Ontology:
                     print('Error: Meaning accessed before a sense was found.')
                     raise
             elif line.tag == 'category':
-                lemma_obj.assign_category(line.text)
+                try:
+                    current_sense.assign_category(line.text)
+                except AttributeError:
+                    print('Error: Category accessed before a sense was found.')
+                    raise
         return lemma_obj
                 
 
