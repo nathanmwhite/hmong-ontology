@@ -87,10 +87,18 @@ class Ontology:
                     raise
         return lemma_obj
                 
-
+    # TODO: determine whether this is viable as its own function
+    #  or should be subsumed under sense_sets
     def lexname(self, word):
         lemma = self._get_lemma(word)
         if lemma == None:
             return []
         else:
             return [sense.category for sense in lemma.senses]
+
+    def sense_sets(self, word):
+        lemma = self._get_lemma(word)
+        if lemma == None:
+            return []
+        else:
+            return lemma.senses
