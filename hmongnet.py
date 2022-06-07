@@ -18,11 +18,11 @@ class Sense:
         self.source = None
         self.category = None
     
-    def assign_meaning(meaning_text):
+    def assign_meaning(self, meaning_text):
         self.meanings.append(meaning_text)
     
     # TODO: need to protect self.category
-    def assign_category(category_text):
+    def assign_category(self, category_text):
         if self.category is None:
             self.category = category_text
         
@@ -34,7 +34,7 @@ class Lemma:
         self.source = None
         self.senses = []
         
-    def assign_sense(sense):
+    def assign_sense(self, sense):
         self.senses.append(sense)
 
 
@@ -42,12 +42,12 @@ class Ontology:
     def __init__(self):
         self._load_ontology_data()
 
-    def _load_ontology_data():
+    def _load_ontology_data(self):
         self.tree = ET.parse('hmong_ontology.xml')
         word_set_idx = 3
         self.word_set = self.tree.getroot()[word_set_idx]
 
-    def _get_lemma(word):
+    def _get_lemma(self, word):
         word = word.replace(' ', '_')
         found_lemma = None
         for lemma in word_set.iter('lemma'):
@@ -84,7 +84,7 @@ class Ontology:
         return lemma_obj
                 
 
-    def lexname(word):
+    def lexname(self, word):
         lemma = _get_lemma(word)
         if lemma == None:
             return []
