@@ -85,7 +85,7 @@ class Ontology:
                 
 
     def lexname(self, word):
-        lemma = _get_lemma(word)
+        lemma = self._get_lemma(word)
         if lemma == None:
             return []
         else:
