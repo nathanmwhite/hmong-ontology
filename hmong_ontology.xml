@@ -4894,6 +4894,14 @@
 		</sense>
 	</lemma>
 	<lemma>
+		<form>kws_kho_mob</form>
+		<note>noun-relative construction</note>
+		<sense>
+			<meaning>doctor</meaning>
+			<category>person</category>
+		</sense>
+	</lemma>
+	<lemma>
 		<form>nawj</form>
 		<variant>nurse</variant>
 		<status>foreign_word</status>
@@ -10267,6 +10275,21 @@
 			<meaning>police</meaning>
 			<category>person</category>
 			<note>may need to revisit category</note>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>tshawb</form>
+		<sense>
+			<meaning>search_for</meaning>
+			<category>verb.contact</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>tshawb_fawb</form>
+		<sense>
+			<meaning>research</meaning>
+			<category>verb.communication</category>
+			<note>may need to revisit composition</note>
 		</sense>
 	</lemma>
 </word_set>
