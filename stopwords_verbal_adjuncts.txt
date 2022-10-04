@@ -1,2 +1,3 @@
 # affixes and bound roots attached to verbs
-# TODO
+sib WH
+sis GM
