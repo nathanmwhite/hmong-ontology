@@ -10292,5 +10292,21 @@
 			<note>may need to revisit composition</note>
 		</sense>
 	</lemma>
+	<lemma>
+		<form>sab_xis</form>
+		<note>compositional</note>
+		<sense>
+			<meaning>right</meaning>
+			<category>location</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>sab_laug</form>
+		<note>compositional</note>
+		<sense>
+			<meaning>left</meaning>
+			<category>location</category>
+		</sense>
+	</lemma>
 </word_set>
 </root>
