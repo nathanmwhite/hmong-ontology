@@ -5172,6 +5172,7 @@
 		<sense>
 			<meaning>witchcraft</meaning>
 			<meaning>sorcery</meaning>
+			<meaning>magic</meaning>
 			<category>cognition</category>
 		</sense>
 	</lemma>
@@ -10306,6 +10307,23 @@
 		<sense>
 			<meaning>left</meaning>
 			<category>location</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>vib_xej</form>
+		<status>foreign_word</status>
+		<source>Lao</source>
+		<sense>
+			<meaning>magic</meaning>
+			<category>cognition</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>thawj_thiab</form>
+		<source>Chinese</source>
+		<sense>
+			<meaning>reincarnate</meaning>
+			<category>verb.change</category>
 		</sense>
 	</lemma>
 </word_set>
