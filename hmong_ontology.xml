@@ -10354,5 +10354,13 @@
 			<category>three_dimensional_body_part</category>
 		</sense>
 	</lemma>
+	<lemma>
+		<form>caj_qwb</form>
+		<note>compositional</note>
+		<sense>
+			<meaning>neck_ridge</meaning>
+			<category>body</category>
+		</sense>
+	</lemma>
 </word_set>
 </root>
