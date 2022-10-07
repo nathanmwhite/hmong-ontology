@@ -10345,5 +10345,14 @@
 			<category>one_dimensional_body_part</category>
 		</sense>
 	</lemma>
+	<lemma>
+		<form>nraub_qaum</form>
+		<note>compositional</note>
+		<sense>
+			<meaning>upper_back</meaning>
+			<meaning>back</meaning>
+			<category>three_dimensional_body_part</category>
+		</sense>
+	</lemma>
 </word_set>
 </root>
