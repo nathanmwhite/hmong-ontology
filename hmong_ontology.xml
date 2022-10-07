@@ -10326,5 +10326,24 @@
 			<category>verb.change</category>
 		</sense>
 	</lemma>
+	<lemma>
+		<form>yas_taw</form>
+		<note>compositional noun + modifier noun</note>
+		<headword>yas</headword>
+		<sense>
+			<meaning>ankle</meaning>
+			<category>body</category>
+		</sense>
+	</lemma>
+	<lemma>
+		<form>txha_nqaj_qaum</form>
+		<note>compositional noun + modifier noun + modifier noun</note>
+		<headword>txha</headword>
+		<sense>
+			<meaning>spine</meaning>
+			<meaning>backbone</meaning>
+			<category>one_dimensional_body_part</category>
+		</sense>
+	</lemma>
 </word_set>
 </root>
