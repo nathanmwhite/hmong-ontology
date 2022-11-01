@@ -10362,5 +10362,12 @@
 			<category>body</category>
 		</sense>
 	</lemma>
+	<lemma>
+		<form>cuav</form>
+		<sense>
+			<meaning>be false</meaning>
+			<category>verb.stative</category>
+		</sense>
+	</lemma>
 </word_set>
 </root>
