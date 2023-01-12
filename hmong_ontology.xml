@@ -10369,5 +10369,13 @@
 			<category>verb.stative</category>
 		</sense>
 	</lemma>
+	<lemma>
+		<form>qab_hau</form>
+		<sense>
+			<meaning>reason</meaning>
+			<meaning>outcome</meaning>
+			<category>cognition</category>
+		</sense>
+	</lemma>
 </word_set>
 </root>
