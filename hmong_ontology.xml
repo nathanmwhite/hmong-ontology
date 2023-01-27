@@ -10382,5 +10382,13 @@
 			<category>cognition</category>
 		</sense>
 	</lemma>
+	<lemma>
+		<form>txawv_txav</form>
+		<sense>
+			<meaning>differ</meaning>
+			<meaning>be different</meaning>
+			<category>verb.stative</category>
+		</sense>
+	</lemma>
 </word_set>
 </root>
