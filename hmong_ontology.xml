@@ -10404,5 +10404,14 @@
 			<category>substance</category>
 		</sense>
 	</lemma>
+	<lemma>
+		<form>tsev_kho_mob</form>
+		<note>compositional noun + relative clause</note>
+		<headword>tsev</headword>
+		<sense>
+			<meaning>hospital</meaning>
+			<category>three_dimensional_object</category>
+		</sense>
+	</lemma>
 </word_set>
 </root>
