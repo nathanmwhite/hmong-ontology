@@ -3876,6 +3876,7 @@
 		<form>khej</form>
 		<status>foreign_word</status>
 		<source>Lao</source>
+		<note>Lao source is different for each sense, but both are from Lao</note>
 		<sense>
 			<meaning>crocodile</meaning>
 			<category>animal</category>
@@ -3883,7 +3884,6 @@
 		<sense>
 			<meaning>Indian</meaning>
 			<category>ethnicity</category>
-			<note>need to review origin of this sense</note>
 		</sense>
 	</lemma>
 	<lemma>
