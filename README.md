@@ -12,7 +12,11 @@ This repository currently contains the following files:
 
 TODO:
 1. Create Python code to load the Hmong ontology as a WordNet-style library. Begun as hmongnet.py.
-2. Label forms as White Hmong where distinct and add Green Mong forms.
-3. Implement stopword files.
-3. Write documentation.
-4. Revisit distinction between object and artifact categories: it does not seem to have significance in Hmong.
+2. Expand vocabulary based on additional forms attested in speaker community using an automated approach.
+3. Label forms as White Hmong where distinct and add Green Mong forms.
+4. Implement stopword files.
+5. Write documentation.
+
+To consider:
+1. Revisit distinction between object and artifact categories: it does not seem to have significance in Hmong.
+2. Provide an additional xml file containing roots with additional bound root possibilities.
