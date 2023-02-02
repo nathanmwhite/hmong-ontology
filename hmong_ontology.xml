@@ -10413,5 +10413,13 @@
 			<category>three_dimensional_object</category>
 		</sense>
 	</lemma>
+	<lemma>
+		<form>tais_caus</form>
+		<sense>
+			<meaning>fearful</meaning>
+			<meaning>cowardly</meaning>
+			<category>verb.stative</category>
+		</sense>
+	</lemma>
 </word_set>
 </root>
