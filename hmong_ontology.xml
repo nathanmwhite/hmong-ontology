@@ -10443,5 +10443,12 @@
 			<category>verb.contact</category>
 		</sense>
 	</lemma>
+	<lemma>
+		<form>rawv</form>
+		<sense>
+			<meaning>be.bent</meaning>
+			<category>verb.stative</category>
+		</sense>
+	</lemma>
 </word_set>
 </root>
