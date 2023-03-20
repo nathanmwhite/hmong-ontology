@@ -10432,5 +10432,12 @@
 			<category>verb.stative</category>
 		</sense>
 	</lemma>
+	<lemma>
+		<form>txo</form>
+		<sense>
+			<meaning>unload</meaning>
+			<category>verb.contact</category>
+		</sense>
+	</lemma>
 </word_set>
 </root>
