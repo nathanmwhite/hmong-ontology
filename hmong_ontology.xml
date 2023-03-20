@@ -10421,5 +10421,16 @@
 			<category>verb.stative</category>
 		</sense>
 	</lemma>
+	<lemma>
+		<form>khuam</form>
+		<sense>
+			<meaning>disrupt</meaning>
+			<category>verb.communication</category>
+		</sense>
+		<sense>
+			<meaning>be.delayed</meaning>
+			<category>verb.stative</category>
+		</sense>
+	</lemma>
 </word_set>
 </root>
