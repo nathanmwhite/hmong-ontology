@@ -10450,5 +10450,17 @@
 			<category>verb.stative</category>
 		</sense>
 	</lemma>
+	<lemma>
+		<form>vam_khom</form>
+		<source>Chinese</source>
+		<sense>
+			<meaning>need</meaning>
+			<category>verb.stative</category>
+		</sense>
+		<sense>
+			<meaning>rely</meaning>
+			<category>verb.cognitive</category>
+		</sense>
+	</lemma>
 </word_set>
 </root>
