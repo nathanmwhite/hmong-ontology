@@ -10466,5 +10466,13 @@
 			<category>verb.cognitive</category>
 		</sense>
 	</lemma>
+	<lemma>
+		<form>teeb_txheeb</form>
+		<source>Chinese</source>
+		<sense>
+			<meaning>research</meaning>
+			<category>verb.communication</category>
+		</sense>
+	</lemma>
 </word_set>
 </root>
