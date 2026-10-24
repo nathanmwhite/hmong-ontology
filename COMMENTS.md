@@ -236,14 +236,16 @@ Note on foom: it's also a verb "wish, bless, curse", as listed already in the on
 
 1. liab ‘red’, daj ‘yellow’ and ntsuab ‘green’ -- These colour terms don't appear in any of the review .tsv files. They are stative verbs in Hmong; for the abstract colour terms, these stative verbs modify a word meaning "color" (e.g., xim) in an unmarked relative clause.
 
-2. cais --separate, segregate, distinguish, classify--it means take two things and make them be apart, or take one thing and make it be apart from others, so not really any of these ILIs in the .tsv. The best option is roughly i31896 ("separate, divide"), and i24985 is also attested.
+2. cais --separate, segregate, distinguish, classify--it means take two things and make them be apart, or take one thing and make it be apart from others, so neither of these ILIs in the .tsv are quite appropriate. The best option is likely i31896 ("separate, divide"), and i24985 is also attested.
 3. da dej -- this is a phrase, and the verb is `da`--`dej` is "water".
 4. deb -- This is definitely in relation to space (i18771). I lack any data for time or other characteristics.
 5. nqi -- i106591 definitely works, though English "damage" is an odd gloss--a bit of slang, perhaps. i64022, "the property of having material worth", also works in expressions such as `nqe kub` "the price of gold".
 6. ntse -- both work.
 7. zaub mov -- this is a "coordinate compound", and so is syntactically not a word (literally "vegetable rice" meaning "food", and they can be separated by other content in fixed constructions). White (2020:255) handles this issue with coordinate compounds in Hmong.
 8. ze -- This is canonically near in physical space, but can also refer to time, as well as a familial relationship, so i20949 appears to work. I lack any data for "degree" or "circumstances".
-9. faus -- i27798, i34003.
+9. cai, tua -- as previously commented in review-conflicts-WH.tsv above.
+
+10. faus -- i27798, i34003. "embed" is not a good match.
 
 
 ## Additional Sources
