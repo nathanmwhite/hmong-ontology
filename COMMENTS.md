@@ -236,7 +236,7 @@ Note on foom: it's also a verb "wish, bless, curse", as listed already in the on
 
 liab ‘red’, daj ‘yellow’ and ntsuab ‘green’ -- These colour terms don't appear in any of the review .tsv files. They are stative verbs in Hmong; for the abstract colour terms, these stative verbs modify a word meaning "color" (e.g., xim) in an unmarked relative clause.
 
-cais
+cais --separate, segregate, distinguish, classify--it means take two things and make them be apart, or take one thing and make it be apart from others, so not really any of these ILIs in the .tsv. The best option is roughly i31896 ("separate, divide"), and i24985 is also attested.
 da dej -- this is a phrase, and the verb is `da`--`dej` is "water".
 deb
 nqi
