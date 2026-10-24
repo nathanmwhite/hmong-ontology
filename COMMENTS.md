@@ -234,15 +234,15 @@ Note on foom: it's also a verb "wish, bless, curse", as listed already in the on
 
 ### Second pass review items (24 Oct)
 
-liab ‘red’, daj ‘yellow’ and ntsuab ‘green’ -- These colour terms don't appear in any of the review .tsv files. They are stative verbs in Hmong; for the abstract colour terms, these stative verbs modify a word meaning "color" (e.g., xim) in an unmarked relative clause.
+1. liab ‘red’, daj ‘yellow’ and ntsuab ‘green’ -- These colour terms don't appear in any of the review .tsv files. They are stative verbs in Hmong; for the abstract colour terms, these stative verbs modify a word meaning "color" (e.g., xim) in an unmarked relative clause.
 
-cais --separate, segregate, distinguish, classify--it means take two things and make them be apart, or take one thing and make it be apart from others, so not really any of these ILIs in the .tsv. The best option is roughly i31896 ("separate, divide"), and i24985 is also attested.
-da dej -- this is a phrase, and the verb is `da`--`dej` is "water".
-deb
-nqi
-ntse
-zaub mov -- this is a "coordinate compound", and is in a grey area as regards whether they form a word together (literally "vegetable rice" meaning "food", and they can be separated by other content in fixed constructions).
-ze
+2. cais --separate, segregate, distinguish, classify--it means take two things and make them be apart, or take one thing and make it be apart from others, so not really any of these ILIs in the .tsv. The best option is roughly i31896 ("separate, divide"), and i24985 is also attested.
+3. da dej -- this is a phrase, and the verb is `da`--`dej` is "water".
+4. deb
+5. nqi
+6. ntse
+7. zaub mov -- this is a "coordinate compound", and is in a grey area as regards whether they form a word together (literally "vegetable rice" meaning "food", and they can be separated by other content in fixed constructions).
+8. ze
 
 
 ## Additional Sources
