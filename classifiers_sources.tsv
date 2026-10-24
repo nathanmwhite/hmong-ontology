@@ -141,8 +141,8 @@ zag	WH	cl:discourse.unit	mensural	White 2021:372	sandhi form
 zag	GM	cl:time	mensural:time		
 zaj	WH	cl:discourse.unit	mensural	White 2021:333,337,371,382	
 zaug	WH	cl:time	mensural:time		sandhi form
-zaum	WH	cl:time	mensural:time	White 2019:239;White 2021:345	
-zaus	WH	cl:time	mensural:time	White 2021:359	dialect corrected
+zaum	WH	cl:time	mensural:time	White 2019:239;White 2021:345,409
+zaus	WH	cl:time	mensural:time	White 2021:359,409	dialect corrected
 zog	WH	cl:village	mensural:container		sandhi form
 zog	GM	cl:village	mensural:container	White 2021:340	
 zos	WH	cl:village	mensural:container	White 2021:340  
