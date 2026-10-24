@@ -232,6 +232,18 @@ sau: "I harvested the crops."
 
 Note on foom: it's also a verb "wish, bless, curse", as listed already in the ontology; the noun also means "blessing", which wasn't added yet to the ontology. The core meaning here is rather underspecified as regards good vs. bad.
 
+### Second pass review items (24 Oct)
+
+liab ‘red’, daj ‘yellow’ and ntsuab ‘green’ -- These colour terms don't appear in any of the review .tsv files. They are stative verbs in Hmong; for the abstract colour terms, these stative verbs modify a word meaning "color" (e.g., xim) in an unmarked relative clause.
+
+cais
+da dej -- this is a phrase, and the verb is `da`--`dej` is "water".
+deb
+nqi
+ntse
+zaub mov -- this is a "coordinate compound", and is in a grey area as regards whether they form a word together (literally "vegetable rice" meaning "food", and they can be separated by other content in fixed constructions).
+ze
+
 
 ## Additional Sources
 
