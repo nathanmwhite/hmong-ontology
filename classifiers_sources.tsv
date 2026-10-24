@@ -1,8 +1,9 @@
 as thiv	GM	cl:week	mensural:time	White 2021:345	Lao borrowing
 chaav	GM	cl:room	mensural	White 2021:333,337	
 chav	WH	cl:room	mensural	White 2021:333,337	
+co	CO	cl:pa	non-singular	White 2021:190	sandhi form
 cov	CO	cl:pa	non-singular	White 2019:224,226,235,236;White 2021:302,354	
-daig	WH	cl:2d	sortal	White 2019:241,243	sandhi form
+daig	WH	cl:2d	sortal	White 2019:241,243;White 2021:174	sandhi form
 daim	WH	cl:2d	sortal	White 2019:227,243;White 2021:304,381	
 dlaim	GM	cl:2d	sortal	White 2021:304,381	
 dlus	CO	mw:middle.finger.tip.to.thumb.tip	measure word	White 2021:367	
@@ -62,8 +63,8 @@ paab	GM	cl:anim.group	mensural:collective	White 2021:342
 paas	GM	cl:gulp	mensural	White 2021:334,337	
 pab	WH	cl:anim.group	mensural:collective	White 2019:228,238;White 2021:342	
 pas	WH	cl:gulp	mensural	White 2021:334,337	
-pawg	CO	cl:group	mensural:collective	White 2021:302	
-pawg	CO	cl:group	mensural:collective	White 2019:234;White 2021:342	
+pawg	CO	cl:group	mensural:collective	White 2019:234;White 2021:302,342
+pawg	CO  cl:pile	mensural	White 2021:276,277
 phau	CO	cl:book	mensural	White 2019:236;White 2021:302,333,337,359,381,382	
 phaum	CO	cl:season	mensural	White 2021:335,337	
 phom	CO	vcl:gunshot	verbal action	White 2021:302,370	
@@ -83,6 +84,7 @@ raab	GM	cl:tool	sortal	White 2021:302,304
 rab	WH	cl:tool	sortal	White 2019:227,240;White 2021:302,304	
 rag	GM	vcl:chop	verbal action	White 2021:370	
 rev	CO	cl:bunch	mensural	White 2021:334	
+riag	GM	vcl:strike.with.knife	verbal action	White 2021:402	variant form
 riag	WH	vcl:chop	verbal action	White 2019:243;White 2021:369	sandhi form
 riam	WH	vcl:chop	verbal action	White 2021:370	
 rooj	CO	cl:table	mensural:container	White 2021:340	
@@ -104,7 +106,7 @@ tawb	CO	cl:basket	mensural:container	White 2021:340
 teev	CO	cl:hour	mensural:time	White 2021:345	
 tej	CO	cl:some	non-singular	White 2019:225,235;White 2021:302,354	
 thaaj	GM	cl:field	mensural	White 2021:337	
-thaj	WH	cl:field	mensural	White 2021:333,337	
+thaj	WH	cl:field,paddy	mensural	White 2021:109,333,337	
 thij	CO	cl:hand	mensural	White 2021:335	
 thoob	CO	cl:bucket	mensural:container	White 2019:228;White 2021:340	
 thooj	CO	cl:chunk	mensural	White 2021:333	
@@ -142,7 +144,7 @@ zag	GM	cl:time	mensural:time
 zaj	WH	cl:discourse.unit	mensural	White 2021:333,337,371,382	
 zaug	WH	cl:time	mensural:time		sandhi form
 zaum	WH	cl:time	mensural:time	White 2019:239;White 2021:345,409
-zaus	WH	cl:time	mensural:time	White 2021:359,409	dialect corrected
+zaus	WH	cl:time	mensural:time	White 2021:359,409,510	dialect corrected
 zog	WH	cl:village	mensural:container		sandhi form
 zog	GM	cl:village	mensural:container	White 2021:340	
 zos	WH	cl:village	mensural:container	White 2021:340  
