@@ -38,7 +38,7 @@ tua: Both are acceptable.
 ua: Both are acceptable.
 xyoob: Both are acceptable.
 
-TODO:
+TODO: -- see below
 cais
 da dej
 deb
@@ -238,11 +238,12 @@ Note on foom: it's also a verb "wish, bless, curse", as listed already in the on
 
 2. cais --separate, segregate, distinguish, classify--it means take two things and make them be apart, or take one thing and make it be apart from others, so not really any of these ILIs in the .tsv. The best option is roughly i31896 ("separate, divide"), and i24985 is also attested.
 3. da dej -- this is a phrase, and the verb is `da`--`dej` is "water".
-4. deb
-5. nqi
-6. ntse
+4. deb -- This is definitely in relation to space (i18771). I lack any data for time or other characteristics.
+5. nqi -- i106591 definitely works, though English "damage" is an odd gloss--a bit of slang, perhaps. i64022, "the property of having material worth", also works in expressions such as `nqe kub` "the price of gold".
+6. ntse -- both work.
 7. zaub mov -- this is a "coordinate compound", and is in a grey area as regards whether they form a word together (literally "vegetable rice" meaning "food", and they can be separated by other content in fixed constructions).
-8. ze
+8. ze -- This is canonically near in physical space, but can also refer to time, as well as a familial relationship, so i20949 appears to work. I lack any data for "degree" or "circumstances".
+9. faus -- i27798, i34003.
 
 
 ## Additional Sources
