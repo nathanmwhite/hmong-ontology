@@ -148,3 +148,38 @@ zaus	WH	cl:time	mensural:time	White 2021:359,409,510	dialect corrected
 zog	WH	cl:village	mensural:container		sandhi form
 zog	GM	cl:village	mensural:container	White 2021:340	
 zos	WH	cl:village	mensural:container	White 2021:340  
+pliag	WH	cl:while	mensural:time	White 2021:73
+tes	WH	cl:handful	mensural:time	White 2021:95
+teg	WH	cl:handful	mensural:time	White 2021:95	sandhi form
+teg	GM	cl:handful	mensural:time	
+npaj	WH	cl:baht	mensural	White 2021:120	Thai/Lao borrowing
+haiv	CO	cl:nationality	mensural	White 2021:135
+qho	CO	cl:default	sortal	White 2021:136	sandhi form
+xyoos	CO	cl:year	mensural:time	White 2021:137,138	sandhi form
+teem	CO	cl:drop	mensural	White 2021:151
+txhia	WH	cl:some.count	mensural	White 2021:158,159,277
+hoob	CO	cl:room	mensural	White 2021:159	Lao borrowing
+zaug	WH	cl:time	mensural:time	White 2021:163	sandhi form
+tam sim	WH	cl:time	mensural:time	White 2021:239
+taam sim	GM	cl:time	mensural:time	White 2021:176
+tsam	WH	cl:later	mensural:time	White 2021:213
+moos	CO	cl:hour	mensural:time	White 2021:244	variant; Lao borrowing
+ntsis	CO	cl:bit	mensural:time	White 2021:247
+feem	CO	cl:part,portion	mensural	White 2021:385,392,395,407
+dos las	WH	cl:dollar	mensural	White 2021:411
+yav	WH	cl:period	mensural:time	White 2021:438
+yaav	GM	cl:period	mensural:time	White 2021:486
+cuam	CO	cl:time	mensural:time	White 2021:445
+nti	CO	cl:finger	mensural	White 2021:525	variant form
+ntiv  CO  cl:finger  mensural    
+kaug	WH	vcl:bite	verbal action	White 2021:538	sandhi form
+feeb	CO	cl:minute,second	mensural:time	White 2021:591,612
+poom	CO	cl:can	mensural:container	White 2021:592	Lao borrowing
+dlav	GM	cl:spoon	mensural:container	White 2021:593
+diav	WH	cl:spoon	mensural:container	
+phaum	CO	cl:generation	mensural	White 2021:648
+niaj	WH	cl:time	mensural:time	White 2021:649
+theem	CO	cl:level	mensural	White 2021:668
+tsoom	CO	cl:crowd	mensural	White 2021:671
+npaug	CO	cl:times	mensural:time	White 2021:675
+vuag	CO	cl:times	mensural:time	White 2021:680
